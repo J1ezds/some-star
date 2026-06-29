@@ -13,7 +13,7 @@ cd some-star
 
 #### 方式一：使用 GitHub Actions（推荐）
 
-仓库已配置好 workflow，无需额外设置。首次运行会自动使用 `GITHUB_TOKEN`。
+仓库已配置好 workflow，使用默认的 `GITHUB_TOKEN` 即可运行。
 
 如需使用 Personal Access Token（PAT），可添加为仓库密钥：
 
@@ -26,13 +26,13 @@ cd some-star
 ```yaml
 - run: python sync_stars.py
   env:
-    GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+    GH_TOKEN: ${{ secrets.MY_TOKEN }}
 ```
 
 #### 方式二：本地运行
 
 ```bash
-export GITHUB_TOKEN="your_token_here"
+export GH_TOKEN="your_token_here"
 python sync_stars.py
 ```
 
@@ -53,7 +53,7 @@ USERNAME = "你的GitHub用户名"
 | 变量 | 说明 | 默认值 |
 |------|------|--------|
 | `USERNAME` | GitHub 用户名 | `J1ezds` |
-| `GITHUB_TOKEN` | 认证 token | 环境变量 |
+| `GH_TOKEN` | 认证 token | 环境变量 |
 
 ### .github/workflows/sync.yml
 

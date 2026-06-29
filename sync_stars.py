@@ -2,9 +2,9 @@ import os
 import requests
 from collections import defaultdict
 
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GH_TOKEN = os.environ.get("GH_TOKEN")
 USERNAME = "J1ezds"
-HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
+HEADERS = {"Authorization": f"token {GH_TOKEN}"} if GH_TOKEN else {}
 
 def get_starred_repos():
     repos = []
