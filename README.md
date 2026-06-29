@@ -1146,6 +1146,7 @@
 - [Hxnxe/CyberSentinel-AI](https://github.com/Hxnxe/CyberSentinel-AI) - CyberSentinel AI 是一个自动化安全监控与AI分析系统
 - [Hypdncy/NessusToReport](https://github.com/Hypdncy/NessusToReport) - Nessus扫描报告自动化生成工具
 - [J1ezds/GitHub_Stars_Information_acquisition](https://github.com/J1ezds/GitHub_Stars_Information_acquisition) - 通过GitHub Api获取指定用户 Stars 过的仓库列表，并输出为 Markdown 格式的文件
+- [J1ezds/some-star](https://github.com/J1ezds/some-star) - github star 分类汇总
 - [JasmineAura/bkcrackGUI](https://github.com/JasmineAura/bkcrackGUI) - 基于 bkcrack 的可视化压缩包明文攻击工具
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules) - 一款火绒增强HIPS自定义规则
