@@ -420,6 +420,7 @@
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+- [gith-u-b/GoBook](https://github.com/gith-u-b/GoBook) - 为你自己学的Go
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls) - Vulnerabilities of Goby supported with exploitation.
@@ -492,7 +493,6 @@
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
-- [step-by-step-wiki/GoBook](https://github.com/step-by-step-wiki/GoBook) - 为你自己学的Go
 - [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) - Pwn2Own Vancouver 2023 Ubuntu LPE exploit
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [team-ide/teamide](https://github.com/team-ide/teamide) - Team IDE 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch、Mongodb、小工具等管理工具
@@ -638,7 +638,7 @@
 - [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
 - [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
-- [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - 自用的llama.cpp集成小工具，自用于AI MAX+ 395机器和双3090服务器。如有问题可以提ISSUE，回复不一定及时；也可以加QQ群：829631748，入群问题的答案是：防爆键盘
+- [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
 - [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from LSPosed
 - [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
@@ -889,7 +889,6 @@
 - [hanc00l/nemo_go](https://github.com/hanc00l/nemo_go) - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
-- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 - [kenny67/AndroidReverseEngineering](https://github.com/kenny67/AndroidReverseEngineering) - 安卓逆向工程 ELFRead、Frida、FridaDump、DexDump、SoDump、Ghidra、Jadx、Xpose...
 - [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 - [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) - An automated JavaScript deobfuscation tool based on Babel AST, with an online playground, CLI, and programmable API.
@@ -1512,6 +1511,7 @@
 - [fdx-xdf/Rust_Beacon](https://github.com/fdx-xdf/Rust_Beacon) - 使用 rust 实现 CobaltStrike 的 beacon || Using Rust to implement CobaltStrike's Beacon
 - [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
 - [jiayuqi7813/Stegsolve-rs](https://github.com/jiayuqi7813/Stegsolve-rs) - 现已支持mcp StegSolve-rs 是一个基于 Rust + egui 重构的图像隐写分析工具，复刻重构了StegSolve
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [qi4L/sRDI-rs](https://github.com/qi4L/sRDI-rs) - Rust 重构的 sRDI
@@ -1651,6 +1651,7 @@
 - [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -1908,7 +1909,6 @@
 - [haibo3434358/ScareAISec](https://github.com/haibo3434358/ScareAISec) - 一个针对业务系统功能的全自动化平台
 - [hb79866472/BurpSuiteCn](https://github.com/hb79866472/BurpSuiteCn) - Burp Suite  汉化 中文
 - [hectorgie/PoC-in-GitHub](https://github.com/hectorgie/PoC-in-GitHub) - 
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [hilyary/LensAnalysis](https://github.com/hilyary/LensAnalysis) - 析镜 LensAnalysis是一款基于 Volatility 3 框架的图形化内存取证工具，专为 CTF 竞赛和安全研究设计。
 - [hrtywhy/BOF-CobaltStrike](https://github.com/hrtywhy/BOF-CobaltStrike) - Useful Cobalt Strike Beacon Object Files (BOFs) used during red teaming and penetration testing engagements.
 - [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
