@@ -1851,7 +1851,6 @@
 - [cseroad/Exp-Tools](https://github.com/cseroad/Exp-Tools) - 一款集成高危漏洞exp的实用性工具
 - [cseroad/Webshell_Generate](https://github.com/cseroad/Webshell_Generate) - 用于生成各类免杀webshell
 - [cyberlesterr/antify-feedback](https://github.com/cyberlesterr/antify-feedback) - Bug reports and feature requests for Antify
-- [d0ctorsec/InformationCollectionEdgeAssetsMining](https://github.com/d0ctorsec/InformationCollectionEdgeAssetsMining) - 信息收集与边缘资产挖掘大全，整理出一条完整的逻辑链路进行信息收集，文章共计两万字🌟。
 - [d0ctorsec/LearnJavaMemshellFromZero-Recurrence](https://github.com/d0ctorsec/LearnJavaMemshellFromZero-Recurrence) - 基于W01fh4cker大佬的LearnJavaMemshellFromZero从零掌握java内存马的复现重组版本。
 - [d0ctorsec/WebGoatVulnerabilityRangeCodeAudit](https://github.com/d0ctorsec/WebGoatVulnerabilityRangeCodeAudit) - 6万字奶爸级WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅🌟
 - [d3ckx1/Fvuln](https://github.com/d3ckx1/Fvuln) - F-vuln（全称：Find-Vulnerability）是为了自己工作方便专门编写的一款自动化工具，主要适用于日常安全服务、渗透测试人员和RedTeam红队人员，它集合的功能包括：存活IP探测、开放端口探测、web服务探测、web漏洞扫描、smb爆破、ssh爆破、ftp爆破、mssql爆破等其他数据库爆破工作以及大量web漏洞检测模块。
