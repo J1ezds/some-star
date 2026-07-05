@@ -375,7 +375,7 @@
 - [TryGOTry/AutoGeaconC2](https://github.com/TryGOTry/AutoGeaconC2) - AutoGeaconC2: 一键读取Profile自动化生成geacon实现跨平台上线CobaltStrike
 - [WXjzcccc/ForensicsTool](https://github.com/WXjzcccc/ForensicsTool) - 简单的取证工具
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) - :hammer: A modern, cross-platform machine manager
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility.
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [X1r0z/EBurstGo](https://github.com/X1r0z/EBurstGo) - 利用 Exchange 服务器 Web 接口爆破邮箱账户 | Brute force email accounts using Exchange server web endpoints
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [Yihsiwei/GoFileBinder](https://github.com/Yihsiwei/GoFileBinder) - golang免杀捆绑器
