@@ -740,8 +740,6 @@
 - [ffffffff0x/BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) - ffffffff0x team toolset for penetration testing, cryptography research, CTF and daily use. | ffffffff0x 团队工具集，用来进行渗透测试，密码学研究，CTF和日常使用。
 - [find-xposed-magisk/LSPatch](https://github.com/find-xposed-magisk/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed|LSPatch：一款非Root的Xposed框架，是从LSPosed扩展而来的。| release备份在backup分支
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
-- [gh0stkey/CaA](https://github.com/gh0stkey/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
-- [gh0stkey/HaE](https://github.com/gh0stkey/HaE) - HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations. 赋能白帽，高效作战！
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -768,6 +766,7 @@
 - [nbauma109/jd-gui-duo](https://github.com/nbauma109/jd-gui-duo) - A multi-decompiler standalone desktop GUI supporting JD-Core V0 & V1, CFR, Procyon, Fernflower, Vineflower & Jadx
 - [noellegazelle6/kail_location](https://github.com/noellegazelle6/kail_location) - 路线模拟，位置模拟，导航模拟，步频模拟，虚拟定位，nfc模拟
 - [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
+- [overspace-labs/CaA](https://github.com/overspace-labs/CaA) - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways. 信息洞察，智探千方！
 - [pacemrc/VulDebug](https://github.com/pacemrc/VulDebug) - Java漏洞调试分析集合
 - [pen4uin/java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持自定义的 Java 回显载荷生成工具｜A customizable Java echo payload generation tool.
 - [pen4uin/java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持自定义的 Java 内存马生成工具｜A customizable Java in-memory webshell generation tool.
@@ -903,6 +902,7 @@
 - [mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql) - 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
 - [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 - [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector) - Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
+- [onewinner/Lightx](https://github.com/onewinner/Lightx) - Lightx 是一款轻量级、高效率的网络安全扫描工具，专为安全研究人员和渗透测试工程师设计。它集成了端口扫描、服务识别、Web指纹识别、漏洞扫描和弱口令检测等功能，提供全面的安全评估能力。并覆盖多数两高一弱场景。
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
 - [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
@@ -1364,7 +1364,7 @@
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
 - [mstxq17/cve-2020-1472](https://github.com/mstxq17/cve-2020-1472) - cve-2020-1472  复现利用及其exp
 - [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073) - PoC Exploit for the NTLM reflection SMB flaw.
-- [naixiao/multi-lang-code-audit-skill](https://github.com/naixiao/multi-lang-code-audit-skill) - PHP/Java/Python/Go/.NET 多语言代码审计 Codex Skill：Source-to-Sink 证据链、PoC、修复建议、CNVD/CVE 提交型漏洞报告
+- [naixiao/multi-lang-code-audit-skill](https://github.com/naixiao/multi-lang-code-audit-skill) - PHP/Java/Python/Go/.NET 多语言代码审计 Codex Skill：Source-to-Sink、PoC、修复建议、CNVD 中文 DOCX 与 CVE 报告
 - [nccgroup/ABPTTS](https://github.com/nccgroup/ABPTTS) - TCP tunneling over HTTP/HTTPS for web application servers
 - [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [nikaiw/CVE-2021-4034](https://github.com/nikaiw/CVE-2021-4034) - PoC for CVE-2021-4034
@@ -1518,7 +1518,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [vi3t1/qq-tim-elevation](https://github.com/vi3t1/qq-tim-elevation) - CVE-2023-34312
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
@@ -1552,6 +1552,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
 - [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+- [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker) - 🐳🐱Docker  Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
 - [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
@@ -1933,7 +1934,7 @@
 - [l1nk3rlin/php_code_audit_project](https://github.com/l1nk3rlin/php_code_audit_project) - 该项目用来记录，我用来练手的PHP代码审计项目。
 - [l3m0n/pentest_study](https://github.com/l3m0n/pentest_study) - 从零开始内网渗透学习
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-- [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+- [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 
 - [leveryd/x-waf](https://github.com/leveryd/x-waf) - 让"WAF绕过"变得简单
 - [lich0821/WeChatDB](https://github.com/lich0821/WeChatDB) - 解密微信数据库，聊天记录备份。Crack WeChat DB.
 - [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。客观描述，Ad🔗🈲🙅❌
@@ -1957,7 +1958,7 @@
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
-- [onewinner/Lightx](https://github.com/onewinner/Lightx) - Lightx 是一款轻量级、高效率的网络安全扫描工具，专为安全研究人员和渗透测试工程师设计。它集成了端口扫描、服务识别、Web指纹识别、漏洞扫描和弱口令检测等功能，提供全面的安全评估能力。并覆盖多数两高一弱场景。
+- [overspace-labs/HaE](https://github.com/overspace-labs/HaE) - HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations. 赋能白帽，高效作战！
 - [pandasec888/taowu-cobalt_strike](https://github.com/pandasec888/taowu-cobalt_strike) - 
 - [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [peter5he1by/PortableBurpsuite](https://github.com/peter5he1by/PortableBurpsuite) - 
