@@ -497,6 +497,7 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) - Pwn2Own Vancouver 2023 Ubuntu LPE exploit
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (子域名扫描/端口扫描/指纹识别/弱口令爆破/JS识别/POC扫描)----------------------------点击下面URL获取高级POC
 - [team-ide/teamide](https://github.com/team-ide/teamide) - Team IDE 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch、Mongodb、小工具等管理工具
 - [thinkoaa/Deadpool](https://github.com/thinkoaa/Deadpool) - deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理，轮询使用代理进行流量转发。
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
@@ -592,6 +593,7 @@
 - [wa1ki0g/Script-For-FridaHook](https://github.com/wa1ki0g/Script-For-FridaHook) - I Love frida
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 - [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - [漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
+- [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - Poc and Exp
 - [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Penetration Testing
 
@@ -833,6 +835,7 @@
 - [xinyu2428/TDOA_RCE](https://github.com/xinyu2428/TDOA_RCE) - 通达OA综合利用工具
 - [xsshim/GzWebsocket](https://github.com/xsshim/GzWebsocket) - 哥斯拉webshell管理工具的插件，用于连接websocket型webshell
 - [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
+- [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
 - [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
 - [yhy0/passive-scan-client](https://github.com/yhy0/passive-scan-client) - Burp被动扫描流量转发插件
 - [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
@@ -1219,7 +1222,6 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 - [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing !
-- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
 - [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
 - [TideSec/TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
@@ -1808,6 +1810,7 @@
 - [TensorFu/ParameciaAndroidReverse](https://github.com/TensorFu/ParameciaAndroidReverse) - 草履虫的Android逆向教程
 - [Thatgfsj/wangwenwrite-skill](https://github.com/Thatgfsj/wangwenwrite-skill) - wangwenwrite-skill：2024-2026年男频系统流网文全流程创作助手，覆盖选题研判、系统设定、大纲撰写、章节创作、润色优化、发布适配全环节，贴合行业爆款趋势，支持情绪值/躺平变强等新型系统，规避AI味儿，助力新手入门、资深作者突破瓶颈，适配起点/番茄/飞卢等主流平台。
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+- [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go) - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
 - [TideSec/TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [TryGOTry/DogCs4.4](https://github.com/TryGOTry/DogCs4.4) - cs4.4修改去特征狗狗版(美化ui,去除特征,自带bypass核晶截图等..)
@@ -1829,7 +1832,7 @@
 - [abc123info/iis7.5-10.x-ShortNameFuzz](https://github.com/abc123info/iis7.5-10.x-ShortNameFuzz) - iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
 - [achuna33/FuckMemshell](https://github.com/achuna33/FuckMemshell) - 内存马持久化
 - [achuna33/Memoryshell-JavaALL](https://github.com/achuna33/Memoryshell-JavaALL) - 收集内存马打入方式
-- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每2小时更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。已有41w+POC，其中3.5w+高质量POC
+- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每2小时更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
 - [agefanscom/website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [aleenzz/Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki) - Cobalt Strike系列
