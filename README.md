@@ -948,7 +948,7 @@
 ## Kotlin
 
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
+- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 自动打卡（无人值守方案，非目标应用数据修改方案！）
 - [JaveleyQAQ/SQL-Injection-Scout](https://github.com/JaveleyQAQ/SQL-Injection-Scout) - SQL Injection Scout 是一个用于 Burp Suite 的扩展，专为帮助安全研究人员和开发人员检测和分析 SQL 注入漏洞而设计。该扩展提供了丰富的配置选项和直观的用户界面，便于用户自定义扫描和分析过程。
 - [Leon406/ToolsFx](https://github.com/Leon406/ToolsFx) - 跨平台密码学工具箱。包含编解码，编码转换，加解密， 哈希，MAC，签名，大数运算，压缩，二维码功能，CTF等功能。
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
@@ -1503,7 +1503,7 @@
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [adysec/rusub](https://github.com/adysec/rusub) - rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。
 - [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信|抖Y多聊|钉钉 多开、防撤回提示、多账号免扫码登录的终极解决方案
-- [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer stuff
+- [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and structured JSON output for AI agents like Claude Code
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1972,6 +1972,8 @@
 - [proudwind/javasec_study](https://github.com/proudwind/javasec_study) - java代码审计学习笔记
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [pureqh/Hyacinth](https://github.com/pureqh/Hyacinth) - 一款java漏洞集合工具
+- [qazwsx5293870/S-APICONT](https://github.com/qazwsx5293870/S-APICONT) - **S-APICONT** 是一款功能强大的 Burp Suite 扩展插件，专注于自动化收集、提取和测试 Web 应用中的 API 接口。它能够从浏览器流量中智能识别 API 端点，支持多种前端框架的路由解析，并提供批量测试和敏感信息检测功能。
+- [qazwsx5293870/S-XIASQL](https://github.com/qazwsx5293870/S-XIASQL) - S-XIASQL 是一款专业的 Burp Suite SQL注入检测插件，能够自动化检测Web应用中的SQL注入漏洞。通过智能分析HTTP请求响应，快速识别潜在的SQL注入点，大幅提升渗透测试效率。
 - [qi4L/JYso-skills](https://github.com/qi4L/JYso-skills) - 用 AI 来操作JYso，并在AI遇到反序列化和JNDI注入情况自动调用
 - [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 - [qwert419/Ai_SATS-tools](https://github.com/qwert419/Ai_SATS-tools) - 专注AI大模型代码审计工具，一款专业的代码安全分析软件，旨在帮助开发者和安全工程师识别代码中的潜在安全漏洞。该工具支持多种编程语言，集成了先进的AI分析技术，能够进行静态代码分析和智能漏洞检测。
