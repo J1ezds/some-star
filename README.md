@@ -756,7 +756,7 @@
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) - 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
 - [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 - [jweny/MemShellDemo](https://github.com/jweny/MemShellDemo) - 内存马Demo合集 memshell demo for java / php / python
 - [kN6jq/gatherBurp](https://github.com/kN6jq/gatherBurp) - 一款强大的 burp 安全测试插件，集成多种安全测试功能，支持自动化扫描和手动测试。
@@ -1439,6 +1439,7 @@
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [wafinfo/Sunflower_get_Password](https://github.com/wafinfo/Sunflower_get_Password) - 一款针对向日葵的识别码和验证码提取工具
 - [we1x4n/fuck_captcha](https://github.com/we1x4n/fuck_captcha) - 基于muggle-ocr的验证码识别脚本，目前仅支持4-6简单英数验证码
+- [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) - Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 - [wgpsec/DBJ](https://github.com/wgpsec/DBJ) - 大宝剑-边界资产梳理工具（红队、蓝队、企业组织架构、子域名、Web资产梳理、Web指纹识别、ICON_Hash资产匹配）
 - [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
 - [wgpsec/tig](https://github.com/wgpsec/tig) - Threat Intelligence Gathering 威胁情报收集，旨在提高蓝队拿到攻击 IP 后对其进行威胁情报信息收集的效率。
@@ -1458,7 +1459,6 @@
 - [ycdxsb/PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github) - Automatically Collect POC or EXP from GitHub by CVE ID.
 - [ycdxsb/Security_Articles](https://github.com/ycdxsb/Security_Articles) - 爬取安全领域文章(Seebug、先知社区、安全客、freebuf等)，转成pdf存到本地，离线学习
 - [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - A tool for automatic patch shellcode into binary file to bypass AV.  /  一个自动patch shellcode到二进制文件的工具
-- [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [ysrc/xunfeng](https://github.com/ysrc/xunfeng) - 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 - [yzddmr6/WebCrack](https://github.com/yzddmr6/WebCrack) - WebCrack是一款web后台弱口令/万能密码批量检测工具，在工具中导入后台地址即可进行自动化检测。
 - [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
@@ -1545,7 +1545,6 @@
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
 - [TheKingOfDuck/ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。
 - [TomAPU/poc_and_exp](https://github.com/TomAPU/poc_and_exp) - 搜集的或者自己写的poc或者exp
-- [XRSec/CobaltStrike-Docker](https://github.com/XRSec/CobaltStrike-Docker) - Cobalt Strike Wrapper
 - [a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept) - 微信防撤回插件，一键安装，MAC可用，支持最新v4.1.10微信
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
