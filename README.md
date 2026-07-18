@@ -1100,7 +1100,7 @@
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [AlphabugX/nopen](https://github.com/AlphabugX/nopen) - NOPEN Tool 又名“morerats” 莫雷斯特，是方程式工具包里的工具。
 - [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
-- [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius汉化
+- [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
 - [Ares-X/shiro-exploit](https://github.com/Ares-X/shiro-exploit) - Shiro反序列化利用工具，支持新版本(AES-GCM)Shiro的key爆破，配合ysoserial，生成回显Payload
 - [Ascotbe/Medusa](https://github.com/Ascotbe/Medusa) - :cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中
 - [Axianke/arl_scan](https://github.com/Axianke/arl_scan) - arl灯塔自动化扫描工具
