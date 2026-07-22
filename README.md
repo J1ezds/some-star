@@ -677,7 +677,6 @@
 - [Sugobet/API_Sword](https://github.com/Sugobet/API_Sword) - NSFOCUS API_Sword：A Burp Suite extension, Automatically recursively collect API endpoints from any response
 - [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) - shiro反序列化漏洞综合利用（仅限授权测试使用）
 - [SummerSec/SpringBootExploit](https://github.com/SummerSec/SpringBootExploit) - 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。
-- [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC) - 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedURLClassLoader）。仅限授权安全研究与本地防御验证。
 - [TheBeastofwar/JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
 - [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) - 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
@@ -867,7 +866,7 @@
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
-- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex(自动开通plus账号) / kiro 注册、验证码获取、CPA/sub回调验证与自动恢复
+- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复
 - [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
 - [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
 - [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
@@ -1184,7 +1183,6 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) - Orange Cyberdefense mindmaps
-- [Otis0408/xianyu-auto-reply-security-fix](https://github.com/Otis0408/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
 - [P001water/UsbKbCracker](https://github.com/P001water/UsbKbCracker) - CTF中常见键盘流量解密脚本
 - [P1-Team/AlliN](https://github.com/P1-Team/AlliN) - A flexible scanner
 - [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) - Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
@@ -1219,6 +1217,7 @@
 - [Tas9er/MySQLByPassForSafeDog](https://github.com/Tas9er/MySQLByPassForSafeDog) - MySQL注入绕安全狗Tamper / Code By:Tas9er
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC) - 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedURLClassLoader）。仅限授权安全研究与本地防御验证。
 - [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 - [TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - You Know, For WEB Fuzzing !
 - [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识库。A knowledge base for red teaming and offensive security.
@@ -1378,6 +1377,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [onewinner/POCS](https://github.com/onewinner/POCS) - 收集最新漏洞POC（Yaml\Python）
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- [otiscuilei/xianyu-auto-reply-security-fix](https://github.com/otiscuilei/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
 - [p1g3/JSINFO-SCAN](https://github.com/p1g3/JSINFO-SCAN) - 递归式寻找域名和api。
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [phith0n/mooder](https://github.com/phith0n/mooder) - Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。
@@ -1512,7 +1512,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 - [ege0x77czz/rust-native-obf](https://github.com/ege0x77czz/rust-native-obf) - 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [fdx-xdf/Rust_Beacon](https://github.com/fdx-xdf/Rust_Beacon) - 使用 rust 实现 CobaltStrike 的 beacon || Using Rust to implement CobaltStrike's Beacon
 - [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) - JSON Web Token Hack Toolkit
 - [jiayuqi7813/Stegsolve-rs](https://github.com/jiayuqi7813/Stegsolve-rs) - 现已支持mcp StegSolve-rs 是一个基于 Rust + egui 重构的图像隐写分析工具，复刻重构了StegSolve
