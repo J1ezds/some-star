@@ -1181,6 +1181,7 @@
 - [MrWQ/vulnerability-wiki](https://github.com/MrWQ/vulnerability-wiki) - 公开漏洞知识库整合：https://mrwq.github.io/vulnerability-wiki/#/
 - [Mumuzi7179/AndroidDatabaseViewerBeta](https://github.com/Mumuzi7179/AndroidDatabaseViewerBeta) - 专为取证比赛设计的Android-Data数据库分析工具；快速解析手机镜像数据库文件，精准提取证据
 - [NAXG/ARL](https://github.com/NAXG/ARL) - ARL 资产侦察灯塔系统二开 提高性能，升级到 python3.12 增强稳定性。MongoDB 升级到 6x。解决扫描停止问题。
+- [NHPT/FireEyeGoldCrystal](https://github.com/NHPT/FireEyeGoldCrystal) - 一个GitHub监控和信息收集工具，支持监控和收集CVE、免杀、漏洞利用等内置关键字和自定义关键字。
 - [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) - yarGen is a generator for YARA rules
 - [NewBee119/ctf_ics_traffic](https://github.com/NewBee119/ctf_ics_traffic) - 工控CTF比赛工具，各种网络数据包处理脚本
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
@@ -1674,6 +1675,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
 - [pajasevi/UnCSS-Online](https://github.com/pajasevi/UnCSS-Online) - Simply UnCSS your styles online!
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
