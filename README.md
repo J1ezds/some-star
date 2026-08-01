@@ -84,6 +84,7 @@
 - [phra/PEzor](https://github.com/phra/PEzor) - Open-Source Shellcode & PE Packer
 - [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) - PoC for Dirty COW (CVE-2016-5195)
 - [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) - Cobalt Strike Aggressor 插件包
 - [topotam/PetitPotam](https://github.com/topotam/PetitPotam) - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -1885,7 +1886,7 @@
 - [djytmdj/Network-security-study-notes](https://github.com/djytmdj/Network-security-study-notes) - 主要记录网络安全学习笔记，包含WEB安全、提权、APP渗透、内网渗透、横向移动、红队、工具学习等
 - [djytmdj/Tool_Summary](https://github.com/djytmdj/Tool_Summary) - 网络安全测试工具汇总，包含漏洞库、漏洞利用工具、漏洞扫描工具、密码读取工具、中间件利用工具、内网渗透工具。cs、burp、浏览器插件工具、字典等
 - [doimet/AuxTools](https://github.com/doimet/AuxTools) - 图形化渗透测试辅助工具
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年7月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [doubleee/WebFuzzing](https://github.com/doubleee/WebFuzzing) - 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！
 - [dr0op/shiro-550-with-NoCC](https://github.com/dr0op/shiro-550-with-NoCC) - Shiro-550 不依赖CC链利用工具
 - [dracodong/vshell_oldversion](https://github.com/dracodong/vshell_oldversion) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
