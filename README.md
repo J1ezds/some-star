@@ -483,6 +483,7 @@
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer
+- [qi4L/CVE-2026-31431-Container-Escape](https://github.com/qi4L/CVE-2026-31431-Container-Escape) - CVE-2026-31431 容器逃逸
 - [qi4L/qscan](https://github.com/qi4L/qscan) - Lightning-fast internal network scanner
 - [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) - 安全服务集成化工具集
 - [r00tSe7en/ShadowlessFeet](https://github.com/r00tSe7en/ShadowlessFeet) - 无影脚 - 命令行下的日志文件处理工具
@@ -1129,7 +1130,6 @@
 - [Ciyfly/SliverCloak](https://github.com/Ciyfly/SliverCloak) - 一个专为Sliver框架设计的流量隐匿和SSL证书伪装脚本
 - [Clouditera/SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
 - [Cobalt-Strike/cobaltstrike-mcp-server](https://github.com/Cobalt-Strike/cobaltstrike-mcp-server) - MCP Server for Cobalt Strike interaction.
-- [CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye) - This tool is designed to help penetration testers and network administrators identify potential security threats, especially those targeting web applications such as SQL injection, XSS, and WebShells. Its modular desig 该工具适用于 HW 蓝队对网络流量的深入分析，帮助安全研究人员、渗透测试人员及网络管理员等专业人士识别潜在的安全威胁，尤其是针对 Web 应用的攻击（如 SQL 注入、XSS、WebShell 等）。其模块化设计使用户能够根据实际需求自由选择并定制各类功能模块
 - [D0g3-Lab/H1ve](https://github.com/D0g3-Lab/H1ve) - An Easy / Quick / Cheap Integrated Platform
 - [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC&EXP仓库、hvv弹药库、Nday、1day
 - [Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) - Redis 4.x/5.x RCE
@@ -1301,6 +1301,7 @@
 - [cwkiller/xxe-smb-server](https://github.com/cwkiller/xxe-smb-server) - 在xxe中使用smb外带多行内容
 - [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only. The default automated binaries created are all burned. I have added the script to the repo to modify certain signatures and it will still work.
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) - Docker labs + defensive scanner for fastjson remote-class-load RCE. fastjson 1.2.66-1.2.83: @JSONType resource probe (CVE-2026-16723). fastjson2 2.0.57: attacker @type reaches loadClass with autoType DISABLED via polymorphic types (@JSONType(seeAlso) / Jackson @JsonSubTypes). Marker-only payloads; safeMode + JDK17 controls.
+- [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab) - MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock Docker image. Found with RAPTOR and raptor-loop-hunt.
 - [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
 - [dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 - [dzxs/Xdecrypt](https://github.com/dzxs/Xdecrypt) - Xshell Xftp password decrypt
@@ -1720,7 +1721,7 @@
 - [AduraK2/Intranet-Movement-Kit](https://github.com/AduraK2/Intranet-Movement-Kit) - 内网横向移动工具箱
 - [AduraK2/Shiro_Weblogic_Tool](https://github.com/AduraK2/Shiro_Weblogic_Tool) - 针对部署在Weblogic上的Shiro
 - [Airboi/bypass-av-note](https://github.com/Airboi/bypass-av-note) - 免杀技术大杂烩---乱拳也打不死老师傅
-- [Aizaren/TelegramEverything](https://github.com/Aizaren/TelegramEverything) - Telegram 电报严选资源导航
+- [Aizaren/TelegramEverything](https://github.com/Aizaren/TelegramEverything) - Telegram 电报严选资源导航 机场 VPN
 - [AnQuanPig/XiaSQL_Plus](https://github.com/AnQuanPig/XiaSQL_Plus) - 迄今为止公开的二开瞎注插件中最强版本：Xia SQL Plus，基于 “瞎注” xia_sql二次开发。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [AnyeDuke/Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill) - 用于记录企业安全规划，建设，运营，攻防的相关资源
@@ -1745,6 +1746,7 @@
 - [CnHack3r/Goby_PoC_RedTeam](https://github.com/CnHack3r/Goby_PoC_RedTeam) - 致力于收集Goby PoC，请勿用于非法操作，后果自负。
 - [Cobalt-Strike/Malleable-C2-Profiles](https://github.com/Cobalt-Strike/Malleable-C2-Profiles) - Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
+- [CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye) - This tool is designed to help penetration testers and network administrators identify potential security threats, especially those targeting web applications such as SQL injection, XSS, and WebShells. Its modular desig 该工具适用于 HW 蓝队对网络流量的深入分析，帮助安全研究人员、渗透测试人员及网络管理员等专业人士识别潜在的安全威胁，尤其是针对 Web 应用的攻击（如 SQL 注入、XSS、WebShell 等）。其模块化设计使用户能够根据实际需求自由选择并定制各类功能模块
 - [CurlySean/TongWebExploit](https://github.com/CurlySean/TongWebExploit) - TongWebExploit 是一款面向 TongWeb 反序列化漏洞场景的图形化检测与利用工具，支持漏洞探测、命令回显、EL 表达式执行、内存马注入和批量检测。
 - [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
 - [DmTomHL/fastjson-1.2.83-gadget-rce](https://github.com/DmTomHL/fastjson-1.2.83-gadget-rce) - Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
