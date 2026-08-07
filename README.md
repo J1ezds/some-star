@@ -295,7 +295,6 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [rabbitmask/BeforeDawn-docker](https://github.com/rabbitmask/BeforeDawn-docker) - BeforeDawn 漏洞全生命周期管理平台 docker部署项目
 - [skysider/pwndocker](https://github.com/skysider/pwndocker) - A docker environment for pwn in ctf
-- [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper
 
@@ -447,6 +446,7 @@
 - [killmonday/fscanx](https://github.com/killmonday/fscanx) - 让fscan再次伟大
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) - 无状态子域名爆破工具
 - [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) - 收集、整理、修改互联网上公开的漏洞POC
+- [langbyyi/CyberStrikeAI-SRC](https://github.com/langbyyi/CyberStrikeAI-SRC) - 
 - [lcvvvv/kscan](https://github.com/lcvvvv/kscan) - Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。
 - [lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic) - EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
 - [leveryd/go-sec-code](https://github.com/leveryd/go-sec-code) - Go相关的安全研究
@@ -855,6 +855,7 @@
 
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [0x727/Space_view](https://github.com/0x727/Space_view) - Space_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件
+- [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools -- JS逆向工具
 - [1in9e/gosint](https://github.com/1in9e/gosint) - Gosint is a distributed asset information collection and vulnerability scanning platform
 - [24-2021/Proxy24](https://github.com/24-2021/Proxy24) - 一个简单的代理浏览器插件
 - [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) - 学习Agent开发的笔记，尝试让Agent从可用到可靠
@@ -1601,6 +1602,7 @@
 - [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
 - [vufa/deepin-wine-qq-arch](https://github.com/vufa/deepin-wine-qq-arch) - Tencent QQ on Deepin Wine5(com.qq.im.deepin) For Archlinux
 - [vufa/deepin-wine-wechat-arch](https://github.com/vufa/deepin-wine-wechat-arch) - Tencent WeChat on Deepin Wine(com.qq.weixin.deepin) For Archlinux
+- [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
 - [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
 - [xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
