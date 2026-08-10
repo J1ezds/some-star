@@ -310,6 +310,7 @@
 - [25smoking/Gwxapkg](https://github.com/25smoking/Gwxapkg) - 一款基于GO实现的微信小程序 wxapkg解包工具，支持自动扫描、解密、反编译，小程序安全测试。
 - [9bie/oss-stinger](https://github.com/9bie/oss-stinger) - 利用oss实现http转发/cobalt strike上线
 - [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) - A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.
+- [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -1716,7 +1717,6 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 - [APKSecurity/APKSecurity](https://github.com/APKSecurity/APKSecurity) - 《APK安全测试与安全研究》
-- [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 - [Aabyss-Team/CTF-Tools](https://github.com/Aabyss-Team/CTF-Tools) - 渊龙Sec安全团队CTF&AWD工具箱
 - [AabyssZG/Open-Source-Information-Leakage](https://github.com/AabyssZG/Open-Source-Information-Leakage) - 开源项目信息泄露笔记
