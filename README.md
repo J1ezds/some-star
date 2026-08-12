@@ -421,6 +421,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [fulaoaz/pentagi](https://github.com/fulaoaz/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [fy0/proxy-hub](https://github.com/fy0/proxy-hub) - 简单易用的代理节点转换工具 / 代理池管理工具。  Import common proxy links and turn them into ready-to-use local SOCKS5/HTTP endpoints
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -515,9 +516,9 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [veo/vscan](https://github.com/veo/vscan) - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [wendell1224/ide-honeypot](https://github.com/wendell1224/ide-honeypot) - 一款针对于IDE的反制蜜罐 IDE-honeypot
 - [wgpsec/CreateHiddenAccount](https://github.com/wgpsec/CreateHiddenAccount) - A tool for creating hidden accounts using the registry || 一个使用注册表创建隐藏帐户的工具
-- [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入
 - [wgpsec/cloudsword](https://github.com/wgpsec/cloudsword) - 一款帮助云租户发现和测试云上风险、增强云上防护能力的综合性开源工具
 - [wgpsec/lc](https://github.com/wgpsec/lc) - LC（List Cloud）是一个多云攻击面资产梳理工具
 - [wikiZ/RedGuard](https://github.com/wikiZ/RedGuard) - RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.
@@ -846,6 +847,7 @@
 - [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) - 图形化漏洞利用Demo-JavaFX版
 - [yhy0/passive-scan-client](https://github.com/yhy0/passive-scan-client) - Burp被动扫描流量转发插件
 - [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
+- [yuqing2026/ruoyi-office](https://github.com/yuqing2026/ruoyi-office) - 🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben 的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │🛍️ ERP进销存 │📑 合同管理 │📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │⚙️ MES制造执行 │💰 财务管理 │📡 IoT物联网 │🛠️ 工单管理 │🛒 MALL商城 │🤖 AI智能助手 │📈 数据报表 │等十余个子系统。
 - [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
 - [yuziiiiiiiiii/SMS_Bomb_Fuzzer](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer) - Burp suite 短信轰炸辅助绕过插件
 - [z-bool/SQLDownload](https://github.com/z-bool/SQLDownload) - 内网大型数据拖库解决方案，隧道不稳定时将内网数据库保存为csv格式文件
@@ -980,6 +982,7 @@
 
 - [highlightink/sqlmap-wiki-zhcn](https://github.com/highlightink/sqlmap-wiki-zhcn) - 可能是最完整的 sqlmap 中文文档。
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [wanshuiyin/HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense) - HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.
 
 ## Mermaid
 
@@ -1460,6 +1463,7 @@
 - [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
 - [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
 - [ttstormxx/jjjjjjjjjjjjjs](https://github.com/ttstormxx/jjjjjjjjjjjjjs) - 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [wafinfo/Sunflower_get_Password](https://github.com/wafinfo/Sunflower_get_Password) - 一款针对向日葵的识别码和验证码提取工具
 - [we1x4n/fuck_captcha](https://github.com/we1x4n/fuck_captcha) - 基于muggle-ocr的验证码识别脚本，目前仅支持4-6简单英数验证码
@@ -1525,7 +1529,6 @@
 - [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
 - [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
-- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每2小时更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
 - [adysec/rusub](https://github.com/adysec/rusub) - rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。
 - [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信|抖Y多聊|钉钉 多开、防撤回提示、多账号免扫码登录的终极解决方案
 - [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and structured JSON output for AI agents like Claude Code
@@ -1738,6 +1741,7 @@
 - [Arinue/CTF-NetA](https://github.com/Arinue/CTF-NetA) - CTF-NetA是一款专门针对CTF比赛的网络流量分析工具，可以对常见的网络流量进行分析，快速自动获取flag。
 - [Asura88/LRCF](https://github.com/Asura88/LRCF) - 
 - [Awrrays/Frame-DefaultPass](https://github.com/Awrrays/Frame-DefaultPass) - 所有碰到过的默认口令
+- [Awrrays/FrameVul](https://github.com/Awrrays/FrameVul) - POC集合，框架nday漏洞利用
 - [Axyanzzzz/FastjsonExploit](https://github.com/Axyanzzzz/FastjsonExploit) - fastjson1.2.83 fatjar利用
 - [Axyanzzzz/TongWebEJBExploit](https://github.com/Axyanzzzz/TongWebEJBExploit) - TongWebEJB漏洞利用工具
 - [Axyanzzzz/TongWebEJBScan-Burp](https://github.com/Axyanzzzz/TongWebEJBScan-Burp) - TongWebEJB反序列化漏洞检测工具——Burp插件
@@ -1865,6 +1869,7 @@
 - [abc123info/iis7.5-10.x-ShortNameFuzz](https://github.com/abc123info/iis7.5-10.x-ShortNameFuzz) - iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
 - [achuna33/FuckMemshell](https://github.com/achuna33/FuckMemshell) - 内存马持久化
 - [achuna33/Memoryshell-JavaALL](https://github.com/achuna33/Memoryshell-JavaALL) - 收集内存马打入方式
+- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每2小时更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
 - [agefanscom/website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [aleenzz/Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki) - Cobalt Strike系列
