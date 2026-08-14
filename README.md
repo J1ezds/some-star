@@ -51,6 +51,7 @@
 - [Xre0uS/MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 - [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
 - [baigae/HeavenlyBypassAV](https://github.com/baigae/HeavenlyBypassAV) - HeavenlyBypassAV免杀工具
+- [bluechips-zhao/av-evasion-skills](https://github.com/bluechips-zhao/av-evasion-skills) - AV Evasion Skill v5.2 是一套完整的 Shellcode 免杀方案，采用 Indirect Syscall、ETW 补丁、Module Stomping、.text Code Cave、字符串编译期加密、IPv4 混淆、XOR 加密、HeapAlloc 缓冲以及直接函数指针调用等技术，从静态特征、行为轨迹、EDR 感知三个层面绕过主流杀软和 EDR。
 - [boku7/BokuLoader](https://github.com/boku7/BokuLoader) - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
 - [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
 - [c0de90e7/GhostWriting](https://github.com/c0de90e7/GhostWriting) - GhostWriting Injection Technique.
@@ -503,7 +504,7 @@
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [synacktiv/CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) - Pwn2Own Vancouver 2023 Ubuntu LPE exploit
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (子域名扫描/端口扫描/指纹识别/弱口令爆破/JS识别/POC扫描)----------------------------点击下面URL获取高级POC
+- [tangxiaofeng7/cscan](https://github.com/tangxiaofeng7/cscan) - Enterprise-grade Distributed Asset & Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero & Vue3. 高性能分布式网络资产扫描平台 (子域名扫描/端口扫描/指纹识别/弱口令爆破/JS识别/POC扫描)
 - [team-ide/teamide](https://github.com/team-ide/teamide) - Team IDE 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch、Mongodb、小工具等管理工具
 - [thinkoaa/Deadpool](https://github.com/thinkoaa/Deadpool) - deadpool代理池工具，可从hunter、quake、fofa等网络空间测绘平台取高质量socks5代理，或本地导入socks5代理，轮询使用代理进行流量转发。
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
@@ -1159,7 +1160,7 @@
 - [GrassWorkshop/wxapkg_infosearch](https://github.com/GrassWorkshop/wxapkg_infosearch) - 一款微信小程序源码包信息收集工具，根据已有项目改编
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [H-Limbus/NoMoney](https://github.com/H-Limbus/NoMoney) - NoMoney 是一款集成了fofa，奇安信的鹰图平台，360quake，且完全免费的信息收集工具。fofa 借助爬虫实现，其余平台利用各自的api进行信息收集。
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
 - [Hel10-Web/XingHuoBypassAv1.0](https://github.com/Hel10-Web/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
 - [HimmelAward/AvoidkillingPHP](https://github.com/HimmelAward/AvoidkillingPHP) - 免杀PHP木马生成器
@@ -1648,6 +1649,7 @@
 ## TypeScript
 
 - [3516634930/Payloader](https://github.com/3516634930/Payloader) - 渗透测试Payload速查平台 | Pentest Payload Quick Reference | XSS/SQLi/SSRF/RCE | React+TypeScript
+- [7-e1even/memshell-party-cli](https://github.com/7-e1even/memshell-party-cli) - MemShellParty 命令行客户端 + MCP 服务器：生成 Java 内存马、盲探测、连马验证、执行命令、传输文件，专给 AI Agent和安全测试人员使用。
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
@@ -1717,6 +1719,7 @@
 - [11firefly11/ApiHunter](https://github.com/11firefly11/ApiHunter) - api接口测试工具,包括swagger文档，asp接口文档,wsdl接口,wadl接口,一键自动跑接口
 - [1n7erface/Template](https://github.com/1n7erface/Template) - Next generation RedTeam heuristic intranet scanning | 下一代RedTeam启发式内网扫描
 - [1ucky7/jmg-for-Godzilla](https://github.com/1ucky7/jmg-for-Godzilla) - Godzilla插件|内存马|Suo5内存代理｜jmg for Godzilla
+- [1y0n/oktos](https://github.com/1y0n/oktos) - Oktos 是一款红队后渗透平台，作为 XRED.TEAM 的一部分。它采用了模块化设计，支持 BOF 动态加载、多信道异步通信与内存免杀，内置的 AI 助手可辅助编排或自动执行后渗透任务，为红队提供隐蔽、高效、智能的作战能力。
 - [24-2021/fscan-POC](https://github.com/24-2021/fscan-POC) - 强化fscan的漏扫POC库
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [7797777977/Upload_Super_Fuzz_Gui](https://github.com/7797777977/Upload_Super_Fuzz_Gui) - 自动生成多种文件上传绕过技术的Payload 进行测试 界面化设计
@@ -1823,6 +1826,7 @@
 - [QAX-Anti-Virus/QDoctor](https://github.com/QAX-Anti-Virus/QDoctor) - The first Computer Emergency Response (ARK) Tools for young people ;) 　　　　　　　　　　　　　　　　　　　　　　年轻人的第一款应急响应(ARK)工具 ；）
 - [R4gd0ll/I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - 综合漏洞后渗透利用工具
 - [ReaJason/javaweb-sources](https://github.com/ReaJason/javaweb-sources) - 存放 MemShellParty 或其他场景下需要使用的 jar 包，仅用于学习交流
+- [Reina-Agent/Reina](https://github.com/Reina-Agent/Reina) - Reina 桌面 AI Agent 发行仓库（仅安装包） | Release distribution for the Reina desktop AI agent — installers only. Windows x64 & macOS arm64, in-app auto-update.
 - [Ridter/Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) - 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 - [RowTeam/SharpExchangeKing](https://github.com/RowTeam/SharpExchangeKing) - Exchange 服务器安全性的辅助测试工具
@@ -2070,6 +2074,7 @@
 - [wafinfo/DecryptTools](https://github.com/wafinfo/DecryptTools) - DecryptTools-综合解密
 - [wafinfo/Hikvision](https://github.com/wafinfo/Hikvision) - 海康威视综合安防平台后渗透利用工具
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [we1h0/redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
 - [weixinbao/ReverseTool](https://github.com/weixinbao/ReverseTool) - 逆向工具集合
 - [welk1n/FastjsonPocs](https://github.com/welk1n/FastjsonPocs) - 一些结合第三方组件的Fastjson POC，在1.2.48以后版本中陆续被添加至黑名单。
 - [wgpsec/wiki](https://github.com/wgpsec/wiki) - WgpSec Wiki 仓库 持续更新
