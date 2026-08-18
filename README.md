@@ -993,7 +993,7 @@
 
 ## Meson
 
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [frida/frida](https://github.com/frida/frida) - Main repo for hosting release binaries
 
 ## NSIS
 
@@ -1161,7 +1161,7 @@
 - [GrassWorkshop/wxapkg_infosearch](https://github.com/GrassWorkshop/wxapkg_infosearch) - 一款微信小程序源码包信息收集工具，根据已有项目改编
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [H-Limbus/NoMoney](https://github.com/H-Limbus/NoMoney) - NoMoney 是一款集成了fofa，奇安信的鹰图平台，360quake，且完全免费的信息收集工具。fofa 借助爬虫实现，其余平台利用各自的api进行信息收集。
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
 - [Hel10-Web/XingHuoBypassAv1.0](https://github.com/Hel10-Web/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
 - [HimmelAward/AvoidkillingPHP](https://github.com/HimmelAward/AvoidkillingPHP) - 免杀PHP木马生成器
@@ -1240,7 +1240,7 @@
 - [T3nk0/Upload_Auto_Fuzz](https://github.com/T3nk0/Upload_Auto_Fuzz) - 一个用于测试文件上传功能安全性的 Burp Suite 插件。通过 Intruder 模块自动生成各类绕过 payload，覆盖常见的文件上传限制场景。共1000+条payload
 - [Taonn/EmailAll](https://github.com/Taonn/EmailAll) - EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具
 - [Tas9er/MySQLByPassForSafeDog](https://github.com/Tas9er/MySQLByPassForSafeDog) - MySQL注入绕安全狗Tamper / Code By:Tas9er
-- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC) - 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedURLClassLoader）。仅限授权安全研究与本地防御验证。
 - [TheKingOfDuck/FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具)
