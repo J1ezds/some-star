@@ -275,6 +275,7 @@
 - [qianxiao996/ctf-knife](https://github.com/qianxiao996/ctf-knife) - 编码解码工具
 - [suiuko/homeweb](https://github.com/suiuko/homeweb) - 个人网站漂亮的导航页
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+- [yaklang/hack-skills](https://github.com/yaklang/hack-skills) - Helping AI Agent become an awesome practical hacker!
 
 ## Classic ASP
 
@@ -323,9 +324,11 @@
 - [CRONUS-Security/vshell-firewall](https://github.com/CRONUS-Security/vshell-firewall) - vshell-firewall is a flexible, high-performance TCP proxy service designed to block fingerprinting and reconnaissance attempts targeting vshell instances, while enabling customizable connection limiting rules.
 - [CRlife/Rscan](https://github.com/CRlife/Rscan) - 自动化扫描利器，指纹识别更精准，漏洞扫描更全面
 - [CTF-MissFeng/GoScan](https://github.com/CTF-MissFeng/GoScan) - GoScan是采用Golang语言编写的一款分布式综合资产管理系统，适合红队、SRC等使用
+- [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 基于 Go 与 React 构建的闲鱼多账号管理、消息回复与自动发货系统
 - [Ciyfly/woodpecker](https://github.com/Ciyfly/woodpecker) - 兼容xray nuclei yaml格式 以及go代码格式的poc验证扫描器
 - [CodeSecurityTeam/frp](https://github.com/CodeSecurityTeam/frp) - 基于frp-0.58.1魔改二开，随机化socks5账户密码及端口、钉钉上线下线通知、配置文件oss加密读取、域前置防止溯源、源码替换/编译混淆等
 - [Daybr4ak/C2ReverseProxy](https://github.com/Daybr4ak/C2ReverseProxy) - 一款可以在不出网的环境下进行反向代理及cs上线的工具
+- [Dest1ny-Sec/dhunter](https://github.com/Dest1ny-Sec/dhunter) - AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
@@ -654,7 +657,7 @@
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
 - [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
-- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from Vector
+- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
 - [K-7H7l/Jeecg_Tools](https://github.com/K-7H7l/Jeecg_Tools) - 本工具为jeecg框架漏洞利用工具非jeecg-boot！
 - [KaGty1/CustomMemShellInjector](https://github.com/KaGty1/CustomMemShellInjector) - 哥斯拉Godzilla定制化插件，接收恶意类Base64编码与恶意类类名进行实例化，达到注入任意类型内存马的目的。
@@ -940,6 +943,7 @@
 - [wjl110/CVE-Master](https://github.com/wjl110/CVE-Master) - 收集本人自接触渗透测试用于漏洞验证的所有热门CVE、POC、CNVD攻击有效载荷+测试工具+FUZZ,一个仓库满足许多攻击测试场景,开箱即用.
 - [wuba/Antenna](https://github.com/wuba/Antenna) - Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。
 - [xh321/LiteLoaderQQNT-Anti-Recall](https://github.com/xh321/LiteLoaderQQNT-Anti-Recall) - LiteLoaderQQNT 插件 - QQNT 简易防撤回
+- [yaklang/yak-skills](https://github.com/yaklang/yak-skills) - SKILLS for Yakit and Yaklang
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [yzddmr6/as_webshell_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
 - [z1sec/jwtauditor](https://github.com/z1sec/jwtauditor) - jwtauditor 汉化修改版
@@ -1130,6 +1134,7 @@
 - [BDisp/unlocker](https://github.com/BDisp/unlocker) - VMware Workstation macOS
 - [BIT-NSC/CTFd-owl](https://github.com/BIT-NSC/CTFd-owl) - Dynamic Check Challenges with docker-compose for CTFd V3.4.0+.
 - [BruceFeIix/picker](https://github.com/BruceFeIix/picker) - 
+- [BugTraceAI/BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) - Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine
 - [CHYbeta/OddProxyDemo](https://github.com/CHYbeta/OddProxyDemo) - 
 - [CRONUS-Security/memory-image-auto-analyzer](https://github.com/CRONUS-Security/memory-image-auto-analyzer) - 一个雏形，一个基于Volatility进行可视化、自动化内存镜像分析的工具
 - [CTF-MissFeng/Watchdog](https://github.com/CTF-MissFeng/Watchdog) - Watchdog是bayonet修改版，重新优化了数据库及web及扫描程序,加入多节点
@@ -1163,6 +1168,8 @@
 - [H-Limbus/NoMoney](https://github.com/H-Limbus/NoMoney) - NoMoney 是一款集成了fofa，奇安信的鹰图平台，360quake，且完全免费的信息收集工具。fofa 借助爬虫实现，其余平台利用各自的api进行信息收集。
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
+- [HeaSec/Pentest-Lyan](https://github.com/HeaSec/Pentest-Lyan) - Web黑盒渗透测试技能
+- [HeaSec/Pentest-WindFtsy](https://github.com/HeaSec/Pentest-WindFtsy) - WindFtsy的WEB应用黑盒测试技能
 - [Hel10-Web/XingHuoBypassAv1.0](https://github.com/Hel10-Web/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
 - [HimmelAward/AvoidkillingPHP](https://github.com/HimmelAward/AvoidkillingPHP) - 免杀PHP木马生成器
 - [HolmesZhao/MacOSDingTalkRevoke](https://github.com/HolmesZhao/MacOSDingTalkRevoke) - MacOS 的钉钉防撤回脚本
@@ -1486,6 +1493,7 @@
 - [xxcosmos/buy_pig_plan_python](https://github.com/xxcosmos/buy_pig_plan_python) - buy_pig_plan 的 Python 版，电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具。
 - [xyz-1008/Kunlun-Penetration-Testing-Platform](https://github.com/xyz-1008/Kunlun-Penetration-Testing-Platform) - 
 - [xz-zone/Webpackfind](https://github.com/xz-zone/Webpackfind) - Webpack自动化信息收集
+- [xzajyjs/ThunderSearch](https://github.com/xzajyjs/ThunderSearch) - macOS上的小而美【Fofa、Shodan、Hunter、Zoomeye、Quake网络空间搜索引擎】闪电搜索器；GUI图形化(Mac/Windows)渗透测试信息搜集工具；资产搜集引擎；hw红队工具hvv
 - [y9nhjy/CTF_Scripts](https://github.com/y9nhjy/CTF_Scripts) - 本人打CTF常用的脚本集合
 - [ycdxsb/PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github) - Automatically Collect POC or EXP from GitHub by CVE ID.
 - [ycdxsb/Security_Articles](https://github.com/ycdxsb/Security_Articles) - 爬取安全领域文章(Seebug、先知社区、安全客、freebuf等)，转成pdf存到本地，离线学习
@@ -1653,6 +1661,7 @@
 - [7-e1even/memshell-party-cli](https://github.com/7-e1even/memshell-party-cli) - MemShellParty 命令行客户端 + MCP 服务器：生成 Java 内存马、盲探测、连马验证、执行命令、传输文件，专给 AI Agent和安全测试人员使用。
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 - [Castor6/tactus](https://github.com/Castor6/tactus) - The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -1879,7 +1888,7 @@
 - [abc123info/iis7.5-10.x-ShortNameFuzz](https://github.com/abc123info/iis7.5-10.x-ShortNameFuzz) - iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
 - [achuna33/FuckMemshell](https://github.com/achuna33/FuckMemshell) - 内存马持久化
 - [achuna33/Memoryshell-JavaALL](https://github.com/achuna33/Memoryshell-JavaALL) - 收集内存马打入方式
-- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每2小时更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
+- [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每日更新 | 每日自动采集、验证、去重并发布 25 万+ 漏洞 PoC，保存已被删除的POC | 通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。
 - [agefanscom/website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
 - [al0ne/suricata-rules](https://github.com/al0ne/suricata-rules) - Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等
 - [aleenzz/Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki) - Cobalt Strike系列
@@ -2126,6 +2135,7 @@
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) - List of Awesome CobaltStrike Resources
 - [zg-sec/PHP_FileUpload](https://github.com/zg-sec/PHP_FileUpload) - PHP文件上传50+绕过手法全景解析
+- [zhaji2333/CkSKILLS](https://github.com/zhaji2333/CkSKILLS) - 基于 Claude Code / Codex 的 SRC 漏洞挖掘 Agent 技能体系 —— 系统级提示词 + 14 个专项安全测试 Skill 知识库
 
 ## VBScript
 
