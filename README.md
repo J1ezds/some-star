@@ -760,7 +760,7 @@
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [iSafeBlue/TrackRay](https://github.com/iSafeBlue/TrackRay) - 溯光 (TrackRay) 3 beta⚡渗透测试框架（资产扫描|指纹识别|暴力破解|网页爬虫|端口扫描|漏洞扫描|代码审计|AWVS|NMAP|Metasploit|SQLMap）
-- [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透&反向代理 (支持TCP/UDP上层协议，支持HTTP/HTTPS端口复用)
+- [iamlinhui/rpt](https://github.com/iamlinhui/rpt) - 内网穿透 / 反向代理 / 正向代理工具，支持 TCP/UDP 上层协议、HTTP 域名复用与 SOCKS5 动态代理
 - [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec) - ☕️ Java Security，安全编码和代码审计
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，内置 AI 助手协助分析，支持 JAR DIFF 分析，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索等
 - [jar-analyzer/jar-analyzer-v1-cli](https://github.com/jar-analyzer/jar-analyzer-v1-cli) - 本项目可以把一个或多个Jar包构建成数据库，用户连接数据库后通过SQL语句任意搜索需要的内容，例如类和方法信息，方法调用关系等
