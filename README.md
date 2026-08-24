@@ -567,11 +567,11 @@
 - [Cl0udG0d/SZhe_Scan](https://github.com/Cl0udG0d/SZhe_Scan) - 碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC
 - [D0n9/paper-archive](https://github.com/D0n9/paper-archive) - 
 - [Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool) - Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。
+- [F0ran9/src](https://github.com/F0ran9/src) - 漏洞报告已脱敏
 - [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
 - [Forensics-wiki/Forensics-Wiki](https://github.com/Forensics-wiki/Forensics-Wiki) - 电子数据取证Wiki
 - [GhostWolfLab/Kamerka-GUI](https://github.com/GhostWolfLab/Kamerka-GUI) - 终极物联网/工业控制系统侦察工具
 - [HobbyBear/tinydocker](https://github.com/HobbyBear/tinydocker) - 🐑 🐑 🐑 本系列教程主要是为了弄清楚容器化的原理，纸上得来终觉浅，绝知此事要躬行，理论始终不及动手实践来的深刻，所以这个系列会用go语言实现一个类似docker的容器化功能，最终能够容器化的运行一个进程。
-- [L0k1-F/src](https://github.com/L0k1-F/src) - 漏洞报告已脱敏
 - [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
 - [LuoyeAutumn/FinalShell-Active](https://github.com/LuoyeAutumn/FinalShell-Active) - FinalShell 4.6.5 全版本离线激活码生成工具  WebUI  |  哈希值解密  |  支持高级版&专业版
 - [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
@@ -1675,7 +1675,7 @@
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - 将节点转换成爬虫代理池. 提供图形界面方便导入节点与启动内核
-- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI penetration testing agent driven by graph-based cognitive reasoning.
+- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning. Developed by the Intelligent Offense & Defense Research Group, led by Professor Lu Hui and Tian Zhihong at Fang Class, Guangzhou University.
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil) - cc完整版，含手册，编译等
 - [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
@@ -1775,6 +1775,7 @@
 - [CoderSJX/AI-Resources-Central](https://github.com/CoderSJX/AI-Resources-Central) - Bringing together outstanding artificial intelligence (AI) open source projects from around the world.
 - [CuriousLearnerDev/TrafficEye](https://github.com/CuriousLearnerDev/TrafficEye) - This tool is designed to help penetration testers and network administrators identify potential security threats, especially those targeting web applications such as SQL injection, XSS, and WebShells. Its modular desig 该工具适用于 HW 蓝队对网络流量的深入分析，帮助安全研究人员、渗透测试人员及网络管理员等专业人士识别潜在的安全威胁，尤其是针对 Web 应用的攻击（如 SQL 注入、XSS、WebShell 等）。其模块化设计使用户能够根据实际需求自由选择并定制各类功能模块
 - [CurlySean/TongWebExploit](https://github.com/CurlySean/TongWebExploit) - TongWebExploit 是一款面向 TongWeb 反序列化漏洞场景的图形化检测与利用工具，支持漏洞探测、命令回显、EL 表达式执行、内存马注入和批量检测。
+- [DMW11525708/wiki](https://github.com/DMW11525708/wiki) - 漏洞文库 wiki.wy876.cn
 - [DeEpinGh0st/MDUT-Extend-Release](https://github.com/DeEpinGh0st/MDUT-Extend-Release) - MDUT-Extend(扩展版本)
 - [DmTomHL/fastjson-1.2.83-gadget-rce](https://github.com/DmTomHL/fastjson-1.2.83-gadget-rce) - Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
