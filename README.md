@@ -770,7 +770,7 @@
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [javaweb-sec/javaweb-sec](https://github.com/javaweb-sec/javaweb-sec) - 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
 - [joaomatosf/JavaDeserH2HC](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 - [jweny/MemShellDemo](https://github.com/jweny/MemShellDemo) - 内存马Demo合集 memshell demo for java / php / python
 - [kN6jq/gatherBurp](https://github.com/kN6jq/gatherBurp) - 一款强大的 burp 安全测试插件，集成多种安全测试功能，支持自动化扫描和手动测试。
@@ -903,7 +903,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
@@ -1477,7 +1477,6 @@
 - [we1x4n/fuck_captcha](https://github.com/we1x4n/fuck_captcha) - 基于muggle-ocr的验证码识别脚本，目前仅支持4-6简单英数验证码
 - [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) - Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 - [wgpsec/DBJ](https://github.com/wgpsec/DBJ) - 大宝剑-边界资产梳理工具（红队、蓝队、企业组织架构、子域名、Web资产梳理、Web指纹识别、ICON_Hash资产匹配）
-- [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
 - [wgpsec/tig](https://github.com/wgpsec/tig) - Threat Intelligence Gathering 威胁情报收集，旨在提高蓝队拿到攻击 IP 后对其进行威胁情报信息收集的效率。
 - [winezer0/XSAST-Python](https://github.com/winezer0/XSAST-Python) - X-SAST 替代Seay的多语言、轻量、快速、代码审计工具 (Python版本)
 - [wooluo/SSlogs](https://github.com/wooluo/SSlogs) - 应急分析溯源日志工具：一个功能强大的Web日志安全分析工具，集成了规则引擎、AI智能分析和多格式报告生成，专为安全应急响应和威胁溯源而设计。
