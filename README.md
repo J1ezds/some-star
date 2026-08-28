@@ -925,7 +925,7 @@
 - [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 - [mrknow001/RSC_Detector](https://github.com/mrknow001/RSC_Detector) - Supports RSC fingerprinting and exploitation of the React component vulnerability CVE-2025-55182.
 - [onewinner/Lightx](https://github.com/onewinner/Lightx) - Lightx 是一款轻量级、高效率的网络安全扫描工具，专为安全研究人员和渗透测试工程师设计。它集成了端口扫描、服务识别、Web指纹识别、漏洞扫描和弱口令检测等功能，提供全面的安全评估能力。并覆盖多数两高一弱场景。
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal, file management, application release and deployment, pipelines, online task planning, configuration center, monitoring, alarm and so on.
 - [phith0n/vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
 - [phith0n/xray-poc-generation](https://github.com/phith0n/xray-poc-generation) - 🧬 辅助生成 XRay YAML POC
 - [phpcalm/exceed](https://github.com/phpcalm/exceed) - 一个功能强大的浏览器扩展程序，专门用于检测Web系统中的权限越权漏洞，适用于Web渗透测试。
