@@ -96,7 +96,7 @@
 - [wonderkun/go-packer](https://github.com/wonderkun/go-packer) - golang打包二进制进行免杀
 - [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mode,   no admin required.
 - [yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) - bypass disable_functions via LD_PRELOA  (no need /usr/sbin/sendmail)
-- [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) - AV/EDR Evasion
+- [ybdt/Evasion-Hub](https://github.com/ybdt/Evasion-Hub) - Endpoint and Lateral Movement Evasion
 - [yuanyuanxiang/BGW_RAT](https://github.com/yuanyuanxiang/BGW_RAT) - BGW RAT：一款功能全面的远程控制程序，即大灰狼9.5，现已支持VS2019编译。项目代码仅限于学习和交流用途。
 
 ## C#
@@ -609,7 +609,7 @@
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 - [xcanwin/CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - [漏洞复现] 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-- [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - Poc and Exp
+- [ybdt/Exp-Hub](https://github.com/ybdt/Exp-Hub) - Vuln Reproducation and Weaponization
 - [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Penetration Testing
 
 ## Hack
