@@ -1467,7 +1467,7 @@
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [tothi/serviceDetector](https://github.com/tothi/serviceDetector) - Detect whether a service is installed (blindly) and/or running (if exposing named pipes) on a remote machine without using local admin privileges.
-- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
+- [tp7309/TTDeDroid](https://github.com/tp7309/TTDeDroid) - One key for quickly decompile apk/aar/dex/jar,  support by jadx/dex2jar/enjarify.
 - [tr0uble-mAker/POC-bomber](https://github.com/tr0uble-mAker/POC-bomber) - 利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点
 - [ttstormxx/jjjjjjjjjjjjjs](https://github.com/ttstormxx/jjjjjjjjjjjjjs) - 爬网站JS文件，自动fuzz api接口，指定api接口（针对前后端分离项目，可指定后端接口地址），回显api响应
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
@@ -1565,6 +1565,7 @@
 
 ## SCSS
 
+- [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [nickboucher/trojan-source](https://github.com/nickboucher/trojan-source) - Trojan Source: Invisible Vulnerabilities
 - [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 
@@ -1918,7 +1919,7 @@
 - [djytmdj/Network-security-study-notes](https://github.com/djytmdj/Network-security-study-notes) - 主要记录网络安全学习笔记，包含WEB安全、提权、APP渗透、内网渗透、横向移动、红队、工具学习等
 - [djytmdj/Tool_Summary](https://github.com/djytmdj/Tool_Summary) - 网络安全测试工具汇总，包含漏洞库、漏洞利用工具、漏洞扫描工具、密码读取工具、中间件利用工具、内网渗透工具。cs、burp、浏览器插件工具、字典等
 - [doimet/AuxTools](https://github.com/doimet/AuxTools) - 图形化渗透测试辅助工具
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年8月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年9月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [doubleee/WebFuzzing](https://github.com/doubleee/WebFuzzing) - 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！
 - [dr0op/shiro-550-with-NoCC](https://github.com/dr0op/shiro-550-with-NoCC) - Shiro-550 不依赖CC链利用工具
 - [dracodong/vshell_oldversion](https://github.com/dracodong/vshell_oldversion) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
@@ -2000,7 +2001,6 @@
 - [lyscf/WheelChairOS](https://github.com/lyscf/WheelChairOS) - 一款预封装的CTF/渗透测试用虚拟机
 - [lz520520/railgun](https://github.com/lz520520/railgun) - 
 - [m-sec-org/EZ](https://github.com/m-sec-org/EZ) - EZ是一款集信息收集、端口扫描、服务暴破、URL爬虫、指纹识别、被动扫描为一体的跨平台漏洞扫描器。
-- [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) - 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
 - [martyr-deepin/deepin-usermanual](https://github.com/martyr-deepin/deepin-usermanual) - deepin 用户手册
 - [mhtsec/Docker-Registry-exp](https://github.com/mhtsec/Docker-Registry-exp) - 一款功能强大的Docker Registry 5000端口未授权浏览、下载和安全测试工具，集成了镜像管理、认证爆破、敏感信息搜索等多项实用功能。
