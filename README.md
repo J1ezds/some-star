@@ -1064,10 +1064,6 @@
 - [yzmcms/yzmcms](https://github.com/yzmcms/yzmcms) - YzmCMS是一款基于YZMPHP开发的一套轻量级开源内容管理系统，YzmCMS简洁、安全、开源、实用，可运行在Linux、Windows、MacOSX、Solaris等各种平台上，专注为公司企业、个人站长快速建站提供解决方案。
 - [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
 
-## PLpgSQL
-
-- [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
-
 ## Pascal
 
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
@@ -1082,6 +1078,7 @@
 ## PowerShell
 
 - [9bie/Slacker](https://github.com/9bie/Slacker) - 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
+- [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR) - Windows绕过EDR实现DumpHash
 - [D13Xian/CobaltStrike-KunKun](https://github.com/D13Xian/CobaltStrike-KunKun) - 坤坤CS 基于CobaltStrike cat 4.5二开项目 添加反沙箱、反测绘。集成常用后渗透插件，开箱即用
 - [DeEpinGh0st/Erebus](https://github.com/DeEpinGh0st/Erebus) - CobaltStrike后渗透测试插件
 - [Lucifer1993/PLtools](https://github.com/Lucifer1993/PLtools) - 整理一些内网常用渗透小工具
@@ -1182,7 +1179,6 @@
 - [JaveleyQAQ/WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 - [JerryLinLinLin/Huorong-ATP-Rules](https://github.com/JerryLinLinLin/Huorong-ATP-Rules) - 一款火绒增强HIPS自定义规则
 - [Jlan45/AWDJavaWebPatch](https://github.com/Jlan45/AWDJavaWebPatch) - 通过jar包快速生成patch模版
-- [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4) - AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x86 · WoW64 · ARM64
 - [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina) - Codebase to generate an msdt-follina payload
 - [KpLi0rn/DeserializeAll](https://github.com/KpLi0rn/DeserializeAll) - 一个简单的批量反编译jar包的小脚本
 - [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
@@ -1246,6 +1242,7 @@
 - [T3nk0/Upload_Auto_Fuzz](https://github.com/T3nk0/Upload_Auto_Fuzz) - 一个用于测试文件上传功能安全性的 Burp Suite 插件。通过 Intruder 模块自动生成各类绕过 payload，覆盖常见的文件上传限制场景。共1000+条payload
 - [Taonn/EmailAll](https://github.com/Taonn/EmailAll) - EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具
 - [Tas9er/MySQLByPassForSafeDog](https://github.com/Tas9er/MySQLByPassForSafeDog) - MySQL注入绕安全狗Tamper / Code By:Tas9er
+- [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) - 嵌入式蜜罐与 AI Agent 反制平台：23 种 Agent 指纹识别 + 功能性伪装收编 + 对话式 C2 + 交互式 SSH 蜜罐与会话回放，实测五款主流 Agent 全部反制上线。
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC) - 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedURLClassLoader）。仅限授权安全研究与本地防御验证。
@@ -1611,6 +1608,7 @@
 - [tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check) - 唐门·心法   windows和linux基线检查，配套自动化检查脚本。
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 - [teamssix/container-escape-check](https://github.com/teamssix/container-escape-check) - docker container escape check || Docker 容器逃逸检测
+- [testnet0/testnet](https://github.com/testnet0/testnet) - TestNet资产管理系统（资产管理|信息收集|暴露面管理|子域名扫描|C段扫描|端口扫描|漏洞扫描|Hunter|Fofa）
 - [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.
 - [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
 - [typecho/Dockerfile](https://github.com/typecho/Dockerfile) - Docker Image packaging for Typecho
