@@ -330,6 +330,7 @@
 - [Ciyfly/woodpecker](https://github.com/Ciyfly/woodpecker) - 兼容xray nuclei yaml格式 以及go代码格式的poc验证扫描器
 - [CodeSecurityTeam/frp](https://github.com/CodeSecurityTeam/frp) - 基于frp-0.58.1魔改二开，随机化socks5账户密码及端口、钉钉上线下线通知、配置文件oss加密读取、域前置防止溯源、源码替换/编译混淆等
 - [Daybr4ak/C2ReverseProxy](https://github.com/Daybr4ak/C2ReverseProxy) - 一款可以在不出网的环境下进行反向代理及cs上线的工具
+- [DeepFK-ai/Databasetools](https://github.com/DeepFK-ai/Databasetools) - 一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接
 - [Dest1ny-Sec/dhunter](https://github.com/Dest1ny-Sec/dhunter) - AI 驱动的自主渗透测试平台：输入目标，AI agent 自动完成侦察→规划→主动测试→漏洞验证→报告生成。黑板引擎+多 worker+SRC 验收门禁。仅供学术与安全研究使用。
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
@@ -346,7 +347,6 @@
 - [Goqi/Erfrp](https://github.com/Goqi/Erfrp) - Erfrp-frp二开-免杀与隐藏
 - [HackAllSec/hfinger](https://github.com/HackAllSec/hfinger) - 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具。A high-performance command-line tool for web framework, CDN and CMS fingerprinting.
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
-- [Hel10-Web/Databasetools](https://github.com/Hel10-Web/Databasetools) - 一款用Go语言编写的数据库自动化提权工具，支持Mysql、MSSQL、Postgresql、Oracle、Redis数据库提权、命令执行、爆破以及ssh连接
 - [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) - 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理、分组管理
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) - ✂️ Removing CDN IPs from the list of IP addresses
 - [JKme/cube](https://github.com/JKme/cube) - 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描
@@ -1144,6 +1144,7 @@
 - [Cobalt-Strike/cobaltstrike-mcp-server](https://github.com/Cobalt-Strike/cobaltstrike-mcp-server) - MCP Server for Cobalt Strike interaction.
 - [D0g3-Lab/H1ve](https://github.com/D0g3-Lab/H1ve) - An Easy / Quick / Cheap Integrated Platform
 - [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC&EXP仓库、hvv弹药库、Nday、1day
+- [DeepFK-ai/XingHuoBypassAv1.0](https://github.com/DeepFK-ai/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
 - [Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) - Redis 4.x/5.x RCE
 - [EASY233/Finger](https://github.com/EASY233/Finger) - 一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具
 - [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
@@ -1166,7 +1167,6 @@
 - [HatBoy/Struts2-Scan](https://github.com/HatBoy/Struts2-Scan) - Struts2全漏洞扫描利用工具
 - [HeaSec/Pentest-Lyan](https://github.com/HeaSec/Pentest-Lyan) - Web黑盒渗透测试技能
 - [HeaSec/Pentest-WindFtsy](https://github.com/HeaSec/Pentest-WindFtsy) - WindFtsy的WEB应用黑盒测试技能
-- [Hel10-Web/XingHuoBypassAv1.0](https://github.com/Hel10-Web/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
 - [HimmelAward/AvoidkillingPHP](https://github.com/HimmelAward/AvoidkillingPHP) - 免杀PHP木马生成器
 - [HolmesZhao/MacOSDingTalkRevoke](https://github.com/HolmesZhao/MacOSDingTalkRevoke) - MacOS 的钉钉防撤回脚本
 - [Huu1j/crawl_xz](https://github.com/Huu1j/crawl_xz) - 一个批量爬取安全技术社区文章的工具（目前支持先知社区、奇安信攻防社区），支持Markdown、PDF、HTML多种格式输出
@@ -1659,7 +1659,7 @@
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 - [Castor6/tactus](https://github.com/Castor6/tactus) - The first browser AI Agent extension to support Agent Skills, enabling AI to perform complex tasks through an expandable skill system. 🌟 Star if you like it! | 首个支持 Agent Skills 的浏览器 AI Agent 扩展，让 AI 通过可扩展技能系统执行复杂任务 🌟 如果喜欢请点个 Star！
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.
 - [ChinaRan0/opencode-safe-judge](https://github.com/ChinaRan0/opencode-safe-judge) - 
 - [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client) - CursorPool客户端，支持windows系统和mac，支持cursor一键换号、重置机器码、禁用Cursor自动更新
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
@@ -1858,7 +1858,7 @@
 - [Tas9er/ByPassBehinder](https://github.com/Tas9er/ByPassBehinder) - ByPassBehinder / 冰蝎WebShell免杀生成 / Code By:Tas9er
 - [Tas9er/ByPassGodzilla](https://github.com/Tas9er/ByPassGodzilla) - 哥斯拉WebShell免杀生成 / Code By:Tas9er
 - [Tas9er/UEditorGetShell](https://github.com/Tas9er/UEditorGetShell) - UEditor编辑器批量GetShell / Code By:Tas9er
-- [Thatgfsj/wangwenwrite-skill](https://github.com/Thatgfsj/wangwenwrite-skill) - wangwenwrite-skill：2024-2026年男频系统流网文全流程创作助手，覆盖选题研判、系统设定、大纲撰写、章节创作、润色优化、发布适配全环节，贴合行业爆款趋势，支持情绪值/躺平变强等新型系统，规避AI味儿，助力新手入门、资深作者突破瓶颈，适配起点/番茄/飞卢等主流平台。
+- [Thatgfsj-easyRep/wangwenwrite-skill](https://github.com/Thatgfsj-easyRep/wangwenwrite-skill) - wangwenwrite-skill：2024-2026年男频系统流网文全流程创作助手，覆盖选题研判、系统设定、大纲撰写、章节创作、润色优化、发布适配全环节，贴合行业爆款趋势，支持情绪值/躺平变强等新型系统，规避AI味儿，助力新手入门、资深作者突破瓶颈，适配起点/番茄/飞卢等主流平台。
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 - [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) - macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
 - [TideSec/TideFinger_Go](https://github.com/TideSec/TideFinger_Go) - 一个Go版(更强大)的TideFinger指纹识别工具，可对web和主机指纹进行识别探测，整合梳理互联网指纹2.3W余条，在效率和指纹覆盖面方面进行了平衡和优化。
