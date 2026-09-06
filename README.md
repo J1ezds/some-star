@@ -1991,7 +1991,7 @@
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 
 - [leveryd/x-waf](https://github.com/leveryd/x-waf) - 让"WAF绕过"变得简单
 - [lich0821/WeChatDB](https://github.com/lich0821/WeChatDB) - 解密微信数据库，聊天记录备份。Crack WeChat DB.
-- [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），[机场跑路/异常/风险反馈]，欢迎投稿。客观描述，Ad🔗🈲🙅❌
+- [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），[机场跑路/异常/风险反馈]，欢迎投稿。客观描述，保持友善，Ad🔗🈲🙅❌
 - [lintstar/About-Attack](https://github.com/lintstar/About-Attack) - 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
 - [luelueking/RuoYi-v4.7.8-RCE-POC](https://github.com/luelueking/RuoYi-v4.7.8-RCE-POC) - 
@@ -2101,7 +2101,7 @@
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - A collection of links related to Linux kernel security and exploitation
 - [xairy/vmware-exploitation](https://github.com/xairy/vmware-exploitation) - A collection of links related to VMware escape exploits
 - [xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI) - 用于Webshell木马免杀、流量加密传输，多多支持star
-- [xiaoming2028/TAG-VPN](https://github.com/xiaoming2028/TAG-VPN) - TAG机场官网地址、机场评测、机场推荐、翻墙工具、TAG VPN、TAG机场、TAG VPN怎么样、TAG机场跑路了吗、vpn、gfw、clash、v2ray、shadowrocket
+- [xiaoming2028/TAG-VPN](https://github.com/xiaoming2028/TAG-VPN) - TAG机场2026最新官网地址与长期实测评测。客观解析TAG VPN节点表现、晚高峰流媒体与Claude/ChatGPT风控体验、真实优缺点与防坑指南。
 - [xiaoy-sec/Pentest_Note](https://github.com/xiaoy-sec/Pentest_Note) - 渗透测试常规操作记录
 - [xiguayiqiu/GYscan](https://github.com/xiguayiqiu/GYscan) - GYscan是一款基于Go语言开发的现代化综合渗透测试工具，专为安全研究人员、渗透测试工程师和红队成员设计。项目采用模块化架构，包含C2服务器端和客户端组件，支持Windows和Linux平台，提供系统安全分析和漏洞扫描功能。
 - [xx0hcd/Malleable-C2-Profiles](https://github.com/xx0hcd/Malleable-C2-Profiles) - Cobalt Strike - Malleable C2 Profiles.  A collection of profiles used in different projects using Cobalt Strike https://www.cobaltstrike.com/.
