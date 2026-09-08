@@ -313,6 +313,7 @@
 - [25smoking/Gwxapkg](https://github.com/25smoking/Gwxapkg) - 一款基于GO实现的微信小程序 wxapkg解包工具，支持自动扫描、解密、反编译，小程序安全测试。
 - [9bie/oss-stinger](https://github.com/9bie/oss-stinger) - 利用oss实现http转发/cobalt strike上线
 - [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) - A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.
+- [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
@@ -336,7 +337,6 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，通过ReAct + MCP架构，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
-- [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [Ed1s0nZ/externalC2Client](https://github.com/Ed1s0nZ/externalC2Client) - Cobalt Strike - External C2 Client
 - [EddieIvan01/iox](https://github.com/EddieIvan01/iox) - Tool for port forwarding & intranet proxy
 - [EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole) - EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
@@ -542,7 +542,6 @@
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
 - [yuyan-sec/RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 - [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT) - 针对JWT渗透开发的漏洞验证/密钥爆破工具，针对CVE-2015-9235/空白密钥/未验证签名攻击/CVE-2016-10555/CVE-2018-0114/CVE-2020-28042的结果生成用于FUZZ，也可使用字典/字符枚举(包括JJWT)的方式进行爆破(JWT Crack)
-- [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | Collect valueable vulnerabilities and push them to various services
 - [zha0gongz1/Three-EyedRaven](https://github.com/zha0gongz1/Three-EyedRaven) - 内网探测工具(Internal network detection tool that not contain any exploit code)
@@ -611,6 +610,7 @@
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [ybdt/Exp-Hub](https://github.com/ybdt/Exp-Hub) - Vuln Reproducation and Weaponization
 - [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Penetration Testing
+- [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 
 ## Hack
 
@@ -1404,6 +1404,7 @@
 - [nszy007/CN_Nessus_Plugins_Interface](https://github.com/nszy007/CN_Nessus_Plugins_Interface) - nessus插件中文查询接口
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [oddcod3/Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - Python antivirus evasion tool
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [onewinner/POCS](https://github.com/onewinner/POCS) - 收集最新漏洞POC（Yaml\Python）
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [otiscuilei/xianyu-auto-reply-security-fix](https://github.com/otiscuilei/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
@@ -2011,7 +2012,6 @@
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The legacy Exploit Database repository - New repo located at https://gitlab.com/exploit-database/exploitdb
-- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [overspace-labs/HaE](https://github.com/overspace-labs/HaE) - HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations. 赋能白帽，高效作战！
 - [pandasec888/taowu-cobalt_strike](https://github.com/pandasec888/taowu-cobalt_strike) - 
 - [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
