@@ -1023,7 +1023,6 @@
 - [0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub) - 该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习
 - [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 - [Apursuit/rce-labs](https://github.com/Apursuit/rce-labs) - 基于alpine+php7.3的一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过
-- [BasyacatX/DVWA-Chinese](https://github.com/BasyacatX/DVWA-Chinese) - DVWA全汉化版本
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [Junehck/FastSqli](https://github.com/Junehck/FastSqli) - 单页mysql注入环境自带数据仅需填账号密码无需其他复杂配置开箱即用。 自定义过滤/拦截规则进行bypass等测试，支持报错/联合/延时/布尔/时间/堆叠 的数值或字符注入
 - [Macr0phag3/webshell-bypassed-human](https://github.com/Macr0phag3/webshell-bypassed-human) - 过人 webshell 的生成工具
@@ -1294,7 +1293,7 @@
 - [blacklanternsecurity/badsecrets](https://github.com/blacklanternsecurity/badsecrets) - A library for detecting known secrets across many web frameworks
 - [blacknbunny/encdecshellcode](https://github.com/blacknbunny/encdecshellcode) - Shellcode Encrypter & Decrypter via XOR Cipher
 - [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [burpheart/mbtm](https://github.com/burpheart/mbtm) - 攻击流量模拟 用于迷惑蓝队 分散蓝队精力 混淆真实攻击流量
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [c1y2m3/ATAttack](https://github.com/c1y2m3/ATAttack) - 敌后侦察
@@ -1674,7 +1673,7 @@
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - 将节点转换成爬虫代理池. 提供图形界面方便导入节点与启动内核
-- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning. Developed by the Intelligent Offense & Defense Research Group, led by Professor Lu Hui and Tian Zhihong at Fang Class, Guangzhou University.
+- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil) - cc完整版，含手册，编译等
 - [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
