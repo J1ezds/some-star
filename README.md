@@ -1405,7 +1405,7 @@
 - [onewinner/POCS](https://github.com/onewinner/POCS) - 收集最新漏洞POC（Yaml\Python）
 - [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - [otiscuilei/xianyu-auto-reply-security-fix](https://github.com/otiscuilei/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
-- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 🚀  新一代自动化资产侦察与漏洞监控平台 (ARL-Next)。经典 ARL 深度重构，打通「公司股权/ICP穿透 ➔ 资产测绘 ➔ 漏洞扫描 ➔ 威胁情报」安全闭环。内置原生 MCP 服务，支持国内镜像极速部署
+- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 现代化资产测绘与漏洞监控平台 (ARL-Next)。经典 ARL 架构重构，聚焦企业资产关联、异步解耦并发调度与原生 MCP 协议集成，容器化开箱部署。
 - [p1g3/JSINFO-SCAN](https://github.com/p1g3/JSINFO-SCAN) - 递归式寻找域名和api。
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [phith0n/mooder](https://github.com/phith0n/mooder) - Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。
