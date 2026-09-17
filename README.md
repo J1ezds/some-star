@@ -902,7 +902,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-- [electerm/electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS).
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools, and aggregating all kinds of online tools.
@@ -1980,7 +1980,6 @@
 - [jdr2021/MysqlLogQuery](https://github.com/jdr2021/MysqlLogQuery) - 代码审计工具，用于监听mysql日志，支持mysql8.0以上和以下的版本。
 - [jvm-rasp/jrasp-agent](https://github.com/jvm-rasp/jrasp-agent) - 专注于JVM的运行时防御系统RASP
 - [k8gege/Aggressor](https://github.com/k8gege/Aggressor) - Ladon 911 for Cobalt Strike & Cracked Download,Large Network Penetration Scanner, vulnerability / exploit / detection / MS17010 / password/brute-force/psexec/atexec/sshexec/webshell/smbexec/netcat/osscan/netscan/struts2Poc/weblogicExp
-- [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 - [kiraio-moe/macOS-on-VMWare](https://github.com/kiraio-moe/macOS-on-VMWare) - A guide for installing macOS on VMWare
 - [kirs112/CobaltStrikeBeaconCppSource](https://github.com/kirs112/CobaltStrikeBeaconCppSource) - Out-of-the-box CobaltStrike Beacon source code use C++
 - [kkbo8005/mitan](https://github.com/kkbo8005/mitan) - 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（聚合测绘，FO FA，Hunter，Quake,Zoomeye,DayDayMap,censys,shodan, 零零信安），指纹识别，敏感信息采集，文件扫描、端口扫描、弱口令破解、jwt密钥爆破、Sessionkey,heapdump, 微信小程序，密码本，随机用户，社工字典,AI渗透（MCP、代码审计）等功能
