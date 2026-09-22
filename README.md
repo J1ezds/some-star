@@ -359,7 +359,7 @@
 - [Ne0nd0g/go-clr](https://github.com/Ne0nd0g/go-clr) - A PoC package for hosting the CLR and executing .NET from Go
 - [Ne0nd0g/go-shellcode](https://github.com/Ne0nd0g/go-shellcode) - A repository of Windows Shellcode runners and supporting utilities. The applications load and execute Shellcode using various API calls or techniques.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
-- [P001water/P1soda](https://github.com/P001water/P1soda) - 一款渗透场景下的内网漏洞自动化扫描工具
+- [P001water/P1soda](https://github.com/P001water/P1soda) - 苏打水 - 一款渗透场景下的内网漏洞自动化扫描工具
 - [Peony2022/shiro_killer](https://github.com/Peony2022/shiro_killer) - 批量ShiroKey检测爆破工具
 - [Pizz33/GoThief](https://github.com/Pizz33/GoThief) - 集成了截图 键盘记录 剪贴版功能，用于网络限制场景下的信息搜集
 - [Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
@@ -1871,7 +1871,7 @@
 - [Vu1nT0tal/IDA-Pro-tips](https://github.com/Vu1nT0tal/IDA-Pro-tips) - IDA Pro每周小技巧
 - [W01fh4cker/LearnFastjsonVulnFromZero-Improvement](https://github.com/W01fh4cker/LearnFastjsonVulnFromZero-Improvement) - 【两万字原创】零基础学fastjson漏洞（提高篇），公众号：追梦信安
 - [W01fh4cker/LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【三万字原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
-- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers, enterprises and AI agents calling - 安全行业从业者自研开源扫描器合辑
 - [WinFoot/18weapons](https://github.com/WinFoot/18weapons) - 十八般兵器，想用哪个点哪个，再也不用担心忘记带工具（主机安全、应用安全、网络安全、日志安全、代码安全、办公工具、运维工具、编辑器工具、开发工具）
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
