@@ -4,6 +4,7 @@
 
 ## ASP.NET
 
+- [0x7556/webshell](https://github.com/0x7556/webshell) - AI一键免杀WebShell，包含金刚狼、哥斯拉、冰蝎、菜刀等
 - [0x7556/wolfshell](https://github.com/0x7556/wolfshell) - 幽狼AI Shell：首款支持AI渗透的高级WebShell & C2管理工具，内置WebShell MCP服务器，支持多层内网级联的ASPX、ASHX高级WebShell管理工具，AES加密通信，无需代理，内存加载渗透工具，无文件落地隐蔽渗透目标，动态代码执行，ShellCode加载(Metasploit/Cobalt Strike)，反弹Shell，Socks代理，内存马，C2远控,IIS端口复用后门、.NET反序列化漏洞Payload,包含Exchange、SharePoint、WSUS漏洞Exp
 - [INotGreen/Webshell-loader](https://github.com/INotGreen/Webshell-loader) - ASPX内存执行shellcode,绕过Windows Defender（AV/EDR）
 - [sectest2024/leakinfo_finder](https://github.com/sectest2024/leakinfo_finder) - 
@@ -293,6 +294,7 @@
 
 - [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 - [cwkiller/Java-Puzzle](https://github.com/cwkiller/Java-Puzzle) - 一个专注于 Java Web 特性、配置和 Trick 的安全谜题集合
+- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 - [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [rabbitmask/BeforeDawn-docker](https://github.com/rabbitmask/BeforeDawn-docker) - BeforeDawn 漏洞全生命周期管理平台 docker部署项目
@@ -589,7 +591,6 @@
 - [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
 - [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 - [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 - [giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init) - CTF PWN 做题环境一键搭建脚本
@@ -1750,7 +1751,7 @@
 - [AnQuanPig/XiaSQL_Plus](https://github.com/AnQuanPig/XiaSQL_Plus) - 迄今为止公开的二开瞎注插件中最强版本：Xia SQL Plus，基于 “瞎注” xia_sql二次开发。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [AnyeDuke/Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill) - 用于记录企业安全规划，建设，运营，攻防的相关资源
-- [Arenbai/SecSkills](https://github.com/Arenbai/SecSkills) - 面向 Claude Code 的专业渗透测试技能模块。严格遵循 PTES 标准，覆盖信息收集、漏洞利用、后渗透与免杀规避全阶段。不定期更新skill，以达到优化skill。
+- [Arenbai/SecSkills](https://github.com/Arenbai/SecSkills) - 面向 Claude Code 的专业渗透测试技能模块。严格遵循 PTES 标准，覆盖信息收集、漏洞利用、后渗透与免杀规避全阶段。后续不在更新skill，如需使用建议二开。
 - [Arinue/CTF-NetA](https://github.com/Arinue/CTF-NetA) - CTF-NetA是一款专门针对CTF比赛的网络流量分析工具，可以对常见的网络流量进行分析，快速自动获取flag。
 - [Asura88/LRCF](https://github.com/Asura88/LRCF) - 
 - [Awrrays/Frame-DefaultPass](https://github.com/Awrrays/Frame-DefaultPass) - 所有碰到过的默认口令
@@ -1871,7 +1872,7 @@
 - [Vu1nT0tal/IDA-Pro-tips](https://github.com/Vu1nT0tal/IDA-Pro-tips) - IDA Pro每周小技巧
 - [W01fh4cker/LearnFastjsonVulnFromZero-Improvement](https://github.com/W01fh4cker/LearnFastjsonVulnFromZero-Improvement) - 【两万字原创】零基础学fastjson漏洞（提高篇），公众号：追梦信安
 - [W01fh4cker/LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【三万字原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
-- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers, enterprises and AI agents calling - 安全行业从业者自研开源扫描器合辑
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - The Ultimate Open-Source Security Arsenal for Hackers, Enterprises, and AI Agents——面向极客、企业与 AI 智能体的全域开源网络安全工具矩阵
 - [WinFoot/18weapons](https://github.com/WinFoot/18weapons) - 十八般兵器，想用哪个点哪个，再也不用担心忘记带工具（主机安全、应用安全、网络安全、日志安全、代码安全、办公工具、运维工具、编辑器工具、开发工具）
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
