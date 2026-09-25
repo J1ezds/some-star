@@ -892,7 +892,7 @@
 - [SickleSec/SnowEyes](https://github.com/SickleSec/SnowEyes) - 一款用于网页敏感信息检测，指纹识别的chrome插件
 - [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 - [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
-- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+- [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 (还在测试).
 - [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
@@ -1354,7 +1354,6 @@
 - [insightglacier/SourceMapX](https://github.com/insightglacier/SourceMapX) - 批量扫描并恢复sourcemap的源代码文件
 - [its-arun/CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) - CobaltStrike <= 4.7.1 RCE
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
-- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram频道群组推荐
 - [jd-opensource/JoySafeter](https://github.com/jd-opensource/JoySafeter) - 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [jjjj1029056414/selfpoc](https://github.com/jjjj1029056414/selfpoc) - 自己写的一些poc脚本
@@ -1433,6 +1432,7 @@
 - [ravizhan/ICP-spider](https://github.com/ravizhan/ICP-spider) - 基于yolov8+孪生网络识别验证码的ICP备案查询程序。从工业和信息化部政务服务平台查询实时数据，高精度过验证码
 - [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
+- [rooktwo/rectg](https://github.com/rooktwo/rectg) - Telegram频道群组推荐
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
 - [runassu/chrome_v20_decryption](https://github.com/runassu/chrome_v20_decryption) - Chrome COOKIE v20 decryption PoC
 - [rzte/pdf-exploit](https://github.com/rzte/pdf-exploit) - pdf exploit 集成
