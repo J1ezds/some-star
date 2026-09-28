@@ -361,7 +361,7 @@
 - [Ne0nd0g/go-clr](https://github.com/Ne0nd0g/go-clr) - A PoC package for hosting the CLR and executing .NET from Go
 - [Ne0nd0g/go-shellcode](https://github.com/Ne0nd0g/go-shellcode) - A repository of Windows Shellcode runners and supporting utilities. The applications load and execute Shellcode using various API calls or techniques.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
-- [P001water/P1soda](https://github.com/P001water/P1soda) - 苏打水 - 一款渗透场景下的内网漏洞自动化扫描工具
+- [P001water/P1soda](https://github.com/P001water/P1soda) - 苏打水 - 一款渗透测试场景下的内网漏洞自动化扫描工具
 - [Peony2022/shiro_killer](https://github.com/Peony2022/shiro_killer) - 批量ShiroKey检测爆破工具
 - [Pizz33/GoThief](https://github.com/Pizz33/GoThief) - 集成了截图 键盘记录 剪贴版功能，用于网络限制场景下的信息搜集
 - [Pizz33/GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - shellcode免杀加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
