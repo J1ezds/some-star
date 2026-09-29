@@ -1270,7 +1270,7 @@
 - [XiaoliChan/wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro) - New generation of wmiexec.py
 - [XiaoliChan/wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut) - Modify version of impacket wmiexec.py, get output(data,response) from registry, don't need SMB connection, also bypassing antivirus-software in lateral movement like WMIHACKER.
 - [XiaomingX/Java-Security-Research-Notes](https://github.com/XiaomingX/Java-Security-Research-Notes) - 本项目是一个综合性的 Java 安全漏洞研究资源库，涵盖了多个知名组件和框架的安全漏洞研究、POC 代码和利用技术。项目内容包括但不限于：  RCE (远程代码执行): 反序列化、表达式注入、模板注入等 SSRF (服务端请求伪造): XXE、URL 重定向等 信息泄露: 配置泄露、路径遍历等 认证绕过: 权限控制缺陷、会话管理问题等
-- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，强调自监督，自循环，自进化首创寻宝机制，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在
+- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，强调自监督，自循环，自进化首创寻宝机制、三段式上升结构，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [ZororoZ/fscanOutput](https://github.com/ZororoZ/fscanOutput) - 一个用于处理fsacn输出结果的小脚本（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人一步！！！）
 - [a1most/disu](https://github.com/a1most/disu) - 包含crt.sh、fullhunt、fofa、360quake、fofa、hunter、virustotal、zoomeye、rapiddns、certspotter、chaziyu、dnsscan、threatminer的一款收集子域名的集成工具。
@@ -1700,6 +1700,7 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -1965,7 +1966,6 @@
 - [haibo3434358/ScareAISec](https://github.com/haibo3434358/ScareAISec) - 一个针对业务系统功能的全自动化平台
 - [hb79866472/BurpSuiteCn](https://github.com/hb79866472/BurpSuiteCn) - Burp Suite  汉化 中文
 - [hectorgie/PoC-in-GitHub](https://github.com/hectorgie/PoC-in-GitHub) - 
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [hrtywhy/BOF-CobaltStrike](https://github.com/hrtywhy/BOF-CobaltStrike) - Useful Cobalt Strike Beacon Object Files (BOFs) used during red teaming and penetration testing engagements.
 - [huihuilikaile/CTF-BTFly](https://github.com/huihuilikaile/CTF-BTFly) - 一个基于pi的自动化ctf agent解题工具
 - [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 2026机场推荐与机场评测
