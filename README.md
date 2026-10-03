@@ -498,7 +498,7 @@
 - [r00tSe7en/ShadowlessFeet](https://github.com/r00tSe7en/ShadowlessFeet) - 无影脚 - 命令行下的日志文件处理工具
 - [redtoolskobe/scaninfo](https://github.com/redtoolskobe/scaninfo) - fast scan for redtools
 - [rmb122/rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - A rouge mysql server supports reading files from most mysql libraries of multiple programming languages.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [safe6Sec/GolangBypassAV](https://github.com/safe6Sec/GolangBypassAV) - 研究利用golang各种姿势bypassAV
 - [sairson/Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions.
@@ -544,6 +544,7 @@
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
 - [yuyan-sec/RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 - [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT) - 针对JWT渗透开发的漏洞验证/密钥爆破工具，针对CVE-2015-9235/空白密钥/未验证签名攻击/CVE-2016-10555/CVE-2018-0114/CVE-2020-28042的结果生成用于FUZZ，也可使用字典/字符枚举(包括JJWT)的方式进行爆破(JWT Crack)
+- [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | Collect valueable vulnerabilities and push them to various services
 - [zha0gongz1/Three-EyedRaven](https://github.com/zha0gongz1/Three-EyedRaven) - 内网探测工具(Internal network detection tool that not contain any exploit code)
@@ -612,7 +613,6 @@
 - [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 - [ybdt/Exp-Hub](https://github.com/ybdt/Exp-Hub) - Vuln Reproducation and Weaponization
 - [ybdt/pentest-hub](https://github.com/ybdt/pentest-hub) - Penetration Testing
-- [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 
 ## Hack
 
