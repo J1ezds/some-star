@@ -2083,7 +2083,7 @@
 - [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~
 - [wafinfo/DecryptTools](https://github.com/wafinfo/DecryptTools) - DecryptTools-综合解密
 - [wafinfo/Hikvision](https://github.com/wafinfo/Hikvision) - 海康威视综合安防平台后渗透利用工具
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [we1h0/redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
 - [weixinbao/ReverseTool](https://github.com/weixinbao/ReverseTool) - 逆向工具集合
 - [welk1n/FastjsonPocs](https://github.com/welk1n/FastjsonPocs) - 一些结合第三方组件的Fastjson POC，在1.2.48以后版本中陆续被添加至黑名单。
