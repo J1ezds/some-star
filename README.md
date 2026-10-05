@@ -1342,7 +1342,7 @@
 - [hanbinglengyue/FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案
 - [heimao-box/pwnpasi](https://github.com/heimao-box/pwnpasi) - This tool is an automated PWN exploitation framework designed for CTF competitions and binary vulnerability exploitation. It integrates various exploitation techniques such as stack overflow and format string attacks, supporting automated analysis and exploitation for both 32-bit and 64-bit programs.
 - [hexbay/ocean_ctf](https://github.com/hexbay/ocean_ctf) - CTF平台 支持docker 动态部署题目、分数统计、作弊检测，静态题目，漏洞复现,ctf platform,
-- [hnking-star/FlySecAgent](https://github.com/hnking-star/FlySecAgent) - FlySecAgent 是一款先进的网络安全智能助手，构建于强大的大语言模型和灵活的 MCP (Model-Controller-Plugin) 架构之上。它旨在通过自然语言交互，为网络安全专业人员和爱好者提供全面的支持。FlySecAgent 不仅能够执行渗透测试任务、查询最新的安全漏洞信息、分析复杂的流量数据包，还能利用集成的知识库进行上下文感知的增强回答，确保信息的准确性和深度。通过 MCP 服务器，FlySecAgent 可以无缝调用各种外部安全工具（如 Nmap, Gobuster, Metasploit 等），从而扩展其能力边界，应对多样化的安全挑战。无论是进行主动防御、事件响应还是安全研究，FlySecAgent 都能成为您得力的助手。
+- [hnking-star/FlySecAgent](https://github.com/hnking-star/FlySecAgent) - FlySecAgent 是面向 AI Agent 的插件式 API 台账与测试记忆服务，通过 Hook 或适配器采集工具执行记录，自动整理接口、参数、测试过程与证据，并将增量记忆反馈给主 Agent。提供可视化工作台，支持接口追踪、测试历史回查与探索关系展示。
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
 - [horizon3ai/vcenter_saml_login](https://github.com/horizon3ai/vcenter_saml_login) - A tool to extract the IdP cert from vCenter backups and log in as Administrator
 - [hosch3n/msmap](https://github.com/hosch3n/msmap) - Msmap is a Memory WebShell Generator.
@@ -1687,7 +1687,7 @@
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [atian25/yuque-exporter](https://github.com/atian25/yuque-exporter) - export yuque to local markdown
-- [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
+- [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序反编译 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 - [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成 CPDAILY 签到&查寝插件)
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) - 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
