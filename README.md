@@ -337,7 +337,7 @@
 - [Dliv3/Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
-- [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - AIMergeBot：基于AI的自动化代码安全审查工具，通过ReAct + MCP架构，智能分析合并请求（MR/PR），助力高效发现和防控安全风险。
+- [Ed1s0nZ/AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot) - 团队自托管的 GitLab 代码安全审计工作台。
 - [Ed1s0nZ/externalC2Client](https://github.com/Ed1s0nZ/externalC2Client) - Cobalt Strike - External C2 Client
 - [EddieIvan01/iox](https://github.com/EddieIvan01/iox) - Tool for port forwarding & intranet proxy
 - [EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole) - EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
