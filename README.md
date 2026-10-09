@@ -321,7 +321,6 @@
 - [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [AlphabugX/Alphalog](https://github.com/AlphabugX/Alphalog) - DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。
-- [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 - [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 - [Avienma/Gobypass](https://github.com/Avienma/Gobypass) - 一款可以过国内所有杀软可以过云查杀的shellcode loader
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -467,6 +466,7 @@
 - [lzzbb/Adinfo](https://github.com/lzzbb/Adinfo) - 域信息收集工具
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [masterqiu01/cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator) - Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行。
+- [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) - AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) - apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40+厂商的加固检测，欢迎大家提交无法识别的app
 - [mstxq17/MoreFind](https://github.com/mstxq17/MoreFind) - 一款用于快速导出URL、Domain和IP的小工具
@@ -795,6 +795,7 @@
 - [pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan) - 一款基于BurpSuite的被动式FastJson检测插件
 - [pmiaowu/BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) - 一款基于BurpSuite的被动式shiro检测插件
 - [pmiaowu/HostCollision](https://github.com/pmiaowu/HostCollision) - 用于host碰撞而生的小工具,专门检测渗透中需要绑定hosts才能访问的主机或内部系统
+- [potato-security/PotatoTool](https://github.com/potato-security/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
 - [pureqh/xxl-job-attack](https://github.com/pureqh/xxl-job-attack) - xxl-job漏洞综合利用工具
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 - [pykiller/API-T00L](https://github.com/pykiller/API-T00L) - 互联网厂商API利用工具。
@@ -979,6 +980,7 @@
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 ## Lua
 
@@ -1270,7 +1272,7 @@
 - [XiaoliChan/wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro) - New generation of wmiexec.py
 - [XiaoliChan/wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut) - Modify version of impacket wmiexec.py, get output(data,response) from registry, don't need SMB connection, also bypassing antivirus-software in lateral movement like WMIHACKER.
 - [XiaomingX/Java-Security-Research-Notes](https://github.com/XiaomingX/Java-Security-Research-Notes) - 本项目是一个综合性的 Java 安全漏洞研究资源库，涵盖了多个知名组件和框架的安全漏洞研究、POC 代码和利用技术。项目内容包括但不限于：  RCE (远程代码执行): 反序列化、表达式注入、模板注入等 SSRF (服务端请求伪造): XXE、URL 重定向等 信息泄露: 配置泄露、路径遍历等 认证绕过: 权限控制缺陷、会话管理问题等
-- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，强调自监督，自循环，自进化首创寻宝机制、三段式上升结构，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在
+- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，强调自监督，自循环，自进化首创寻宝机制、三段式上升结构，此项目主要探索在可控环境（CTF）下的能力，不具备真实世界渗透能力
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [ZororoZ/fscanOutput](https://github.com/ZororoZ/fscanOutput) - 一个用于处理fsacn输出结果的小脚本（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人一步！！！）
 - [a1most/disu](https://github.com/a1most/disu) - 包含crt.sh、fullhunt、fofa、360quake、fofa、hunter、virustotal、zoomeye、rapiddns、certspotter、chaziyu、dnsscan、threatminer的一款收集子域名的集成工具。
@@ -1639,7 +1641,7 @@
 
 ## Swift
 
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
@@ -1676,6 +1678,7 @@
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [QiantangCredit/heimdall-agent](https://github.com/QiantangCredit/heimdall-agent) - An autonomous AI agent framework for authorized CTF and security labs
 - [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - A proxy pool control panel built with Gin and React. Its core goal is to organize Clash/Mihomo nodes into reusable proxy pools for web scraping, data collection, proxy requests, and automated outbound network scenarios.
 - [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
@@ -1799,7 +1802,6 @@
 - [HackJava/Log4j2](https://github.com/HackJava/Log4j2) - 《HackLog4j-永恒之恶龙》致敬全宇宙最无敌的Java日志库！Tribute to the most invincible Java logging library in the universe!
 - [Harmoc/CTFTools](https://github.com/Harmoc/CTFTools) - Personal CTF Toolkit
 - [Henglie/EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM) - EternalBlaze 调试级去虚拟化虚拟机（2026）基于 VMware 16.1.2 与 Windows 10 1909 专业版，专为逆向工程、病毒分析、CTF 竞赛等高安全需求场景设计。通过整合最新去虚拟化技术，有效绕过主流强壳软件的虚拟机检测。提供基础原型机（EB0）与预装全套逆向工具的成品机（EB1）两个版本，支持快照回溯、文件便捷传输、远程内核调试及秘钥软件持久化等功能。适用于流氓软件取证、DRM研究、驱动开发等，但不支持 DX12 游戏及部分新型 DRM 视频播放。强调仅限合法学习研究，严禁用于盗录或作弊。
-- [HotBoy-java/PotatoTool](https://github.com/HotBoy-java/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了20+.Net反序列化文章，持续更新
 - [JDArmy/DCSec](https://github.com/JDArmy/DCSec) - 域控安全one for all
 - [Junehck/SQL-injection-bypass](https://github.com/Junehck/SQL-injection-bypass) - 记录实战中的各种sql注入绕过姿势
@@ -2076,7 +2078,6 @@
 - [theLSA/emergency-response-checklist](https://github.com/theLSA/emergency-response-checklist) - 应急响应指南 / emergency response checklist
 - [threatexpress/malleable-c2](https://github.com/threatexpress/malleable-c2) - Cobalt Strike Malleable C2 Design and Reference Guide
 - [tophant-ai/Daybreak](https://github.com/tophant-ai/Daybreak) - DayBreak（破晓）是斗象推出的一款社区化安全渗透工具，以企业安全人员&白帽子作为主要使用对象，通过持续不断的测试去度量和提升企业网络安全防护效果。DayBreak通过为企业网络环境提供常见/专属的“攻击”手段，进行重复性的无害化“入侵”测试，达到持续性验证企业纵深防御体系下安全产品在当前阶段策略有效性的目的。
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [uknowsec/SharpToolsAggressor](https://github.com/uknowsec/SharpToolsAggressor) - 内网渗透中常用的c#程序整合成cs脚本，直接内存加载。持续更新~
 - [v-yun/vuln-report-skill](https://github.com/v-yun/vuln-report-skill) - Claude Code skill: turn confirmed vulnerabilities into submission-ready DOCX reports | 漏洞报告成稿 skill（SRC/0day 提交稿、分层验证门、Step 式 PoC、截图铁律）
 - [vaardan/wireguard-macos-app](https://github.com/vaardan/wireguard-macos-app) - Wireguard UI Universal Apple application
