@@ -265,7 +265,6 @@
 
 - [Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan) - What AV? 一款轻量级的杀软在线识别的项目，持续更新ing
 - [FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [MrWQ/tools](https://github.com/MrWQ/tools) - [个人GitHub pages工具箱](https://mrwq.github.io/tools/)
 - [Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 - [ZYYO666/homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
@@ -295,7 +294,6 @@
 
 - [AntSwordProject/AntSword-Labs](https://github.com/AntSwordProject/AntSword-Labs) - Awesome environment for antsword tests
 - [cwkiller/Java-Puzzle](https://github.com/cwkiller/Java-Puzzle) - 一个专注于 Java Web 特性、配置和 Trick 的安全谜题集合
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 - [hiifeng/V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [rabbitmask/BeforeDawn-docker](https://github.com/rabbitmask/BeforeDawn-docker) - BeforeDawn 漏洞全生命周期管理平台 docker部署项目
@@ -883,6 +881,7 @@
 - [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
 - [Gu-f/CTFd_chinese_CN](https://github.com/Gu-f/CTFd_chinese_CN) - 对CTFd平台各版本的汉化记录。key:中文、汉化、翻译、chinese、CN、CTFd
 - [HACK-THE-WORLD/avList](https://github.com/HACK-THE-WORLD/avList) - avList - 杀软进程对应杀软名称
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Henglie/EBCTFCodeBox](https://github.com/Henglie/EBCTFCodeBox) - 跨平台 CTF 编解码工具箱/密码学工具箱,几百个算法全在浏览器本地运行,零外发。支持一把梭智能解码、配方链、图形编码图鉴、隐写分析与全 Unicode 显示。
 - [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
@@ -1408,7 +1407,7 @@
 - [oddcod3/Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - Python antivirus evasion tool
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [onewinner/POCS](https://github.com/onewinner/POCS) - 收集最新漏洞POC（Yaml\Python）
-- [oritera/Cairn](https://github.com/oritera/Cairn) - A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- [oritera/Cairn](https://github.com/oritera/Cairn) - Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin.
 - [otiscuilei/xianyu-auto-reply-security-fix](https://github.com/otiscuilei/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
 - [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 现代化资产测绘与漏洞监控平台 (ARL-Next)。经典 ARL 架构重构，聚焦企业资产关联、异步解耦并发调度与原生 MCP 协议集成，容器化开箱部署。
 - [p1g3/JSINFO-SCAN](https://github.com/p1g3/JSINFO-SCAN) - 递归式寻找域名和api。
@@ -1591,6 +1590,7 @@
 - [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard v4 官方文档（zh/en 双语）：Kuboard 是基于 Kubernetes 的微服务管理界面。本仓库为 v4 版本文档站源码，涵盖安装升级、集群管理、工作负载、网络、存储、Kuboard MCP 等。
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
 - [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
 - [gangz1o/clash4docker](https://github.com/gangz1o/clash4docker) - 🐳🐱Docker  Clash: 主流协议平台全兼容，内置精美UI面板，一键部署，世界触手可及。✨
