@@ -196,6 +196,7 @@
 - [MentalityXt/bypassAV](https://github.com/MentalityXt/bypassAV) - 免杀shellcode加载器
 - [Mephostophiles/PengCode](https://github.com/Mephostophiles/PengCode) - EXE转ShellCode工具
 - [Neo-Maoku/SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode) - 恶意代码逃逸源代码 http://payloads.online
 - [SaadAhla/FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
@@ -368,6 +369,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 - [Rubby2001/Rshell](https://github.com/Rubby2001/Rshell) - A cross-platform, multi-protocol C2 framework in Go (TCP/WebSocket/KCP/HTTP/OSS) for authorized pentesting & red teaming
+- [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) - Autumn-27/ARTEX 二开
 - [RuoJi6/database_scan](https://github.com/RuoJi6/database_scan) - 
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) - 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
@@ -756,7 +758,6 @@
 - [feihong-cs/ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated) - Shiro550/Shiro721 一键化利用工具，支持多种回显方式
 - [feihong-cs/memShell](https://github.com/feihong-cs/memShell) - FilterBased/ServletBased in memory shell for Tomcat and some other middlewares
 - [ffffffff0x/BerylEnigma](https://github.com/ffffffff0x/BerylEnigma) - ffffffff0x team toolset for penetration testing, cryptography research, CTF and daily use. | ffffffff0x 团队工具集，用来进行渗透测试，密码学研究，CTF和日常使用。
-- [find-xposed-magisk/LSPatch](https://github.com/find-xposed-magisk/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed|LSPatch：一款非Root的Xposed框架，是从LSPosed扩展而来的。| release备份在backup分支
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
@@ -1380,7 +1381,7 @@
 - [lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) - A fast sub domain brute tool for pentesters
 - [limu520/dxxQQbot](https://github.com/limu520/dxxQQbot) - 一键自动催收大学习截图，提醒懒狗刷大学习QQ机器人
 - [linshaoSec/WaterExp](https://github.com/linshaoSec/WaterExp) - WaterExp:面向安服仔的 水报告模板和工具
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
 - [lizhianyuguangming/TomcatScanPro](https://github.com/lizhianyuguangming/TomcatScanPro) - tomcat自动化漏洞扫描利用工具，支持批量弱口令检测、后台部署war包getshell、CVE-2017-12615 文件上传、CVE-2020-1938/CNVD-2020-10487 文件包含
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [loecho-sec/ARL-Finger-ADD](https://github.com/loecho-sec/ARL-Finger-ADD) - 灯塔（最新版）指纹添加脚本！
@@ -1655,6 +1656,7 @@
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 - [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [tanranv5/WeChatTweak](https://github.com/tanranv5/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## TypeScript
 
