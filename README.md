@@ -34,6 +34,7 @@
 - [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
 - [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
 - [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [Echocipher/AUTO-EARN](https://github.com/Echocipher/AUTO-EARN) - 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具
 - [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
@@ -717,7 +718,6 @@
 - [achuna33/MYExploit](https://github.com/achuna33/MYExploit) - OAExploit一款基于产品的一键扫描工具。
 - [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit) - YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans services
 - [ahisec/geoserver-](https://github.com/ahisec/geoserver-) - geoserver CVE-2024-36401漏洞利用工具
-- [alanni-tom/Turacos](https://github.com/alanni-tom/Turacos) - Turacos 是一款专业的多数据库安全评估工具，支持 PostgreSQL、MySQL、Redis、MSSQL 等多种数据库的后渗透操作。 为安全研究人员提供系统化、模块化的数据库安全测试能力，助力企业进行安全评估与漏洞验证。
 - [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目https://github.com/SummerSec/ShiroAttack2 进行了一些改进。
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 - [ax1sX/SpringSecurity](https://github.com/ax1sX/SpringSecurity) - A list for Spring Security
@@ -872,7 +872,6 @@
 - [24-2021/Proxy24](https://github.com/24-2021/Proxy24) - 一个简单的代理浏览器插件
 - [7-e1even/learn-agent](https://github.com/7-e1even/learn-agent) - 学习Agent开发的笔记，尝试让Agent从可用到可靠
 - [Ad1euDa1e/VueCrack](https://github.com/Ad1euDa1e/VueCrack) - 红队浏览器插件-检测VUE站点未授权漏洞
-- [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [AntSwordProject/AwesomeEncoder](https://github.com/AntSwordProject/AwesomeEncoder) - AntSword 自定义编(解)码器分享
 - [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
 - [BeichenDream/GodzillaNodeJsPayload](https://github.com/BeichenDream/GodzillaNodeJsPayload) - GodzillaNodeJsPayload
@@ -1123,6 +1122,7 @@
 - [AabyssZG/Raster-Terminator](https://github.com/AabyssZG/Raster-Terminator) - CTF之光栅图秒杀器
 - [AabyssZG/SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) - 针对SpringBoot的开源渗透框架，以及Spring相关高危漏洞利用工具
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
+- [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [AlphabugX/nopen](https://github.com/AlphabugX/nopen) - NOPEN Tool 又名“morerats” 莫雷斯特，是方程式工具包里的工具。
 - [Amulab/CAudit](https://github.com/Amulab/CAudit) - 集权设施扫描器
 - [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) - Termius 汉化
@@ -1298,7 +1298,7 @@
 - [blacklanternsecurity/badsecrets](https://github.com/blacklanternsecurity/badsecrets) - A library for detecting known secrets across many web frameworks
 - [blacknbunny/encdecshellcode](https://github.com/blacknbunny/encdecshellcode) - Shellcode Encrypter & Decrypter via XOR Cipher
 - [broken5/WebAliveScan](https://github.com/broken5/WebAliveScan) - 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [burpheart/mbtm](https://github.com/burpheart/mbtm) - 攻击流量模拟 用于迷惑蓝队 分散蓝队精力 混淆真实攻击流量
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [c1y2m3/ATAttack](https://github.com/c1y2m3/ATAttack) - 敌后侦察
@@ -1607,7 +1607,7 @@
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
 - [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: [WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
-- [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+- [nelvko/clashctl](https://github.com/nelvko/clashctl) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [orangbus/Tool](https://github.com/orangbus/Tool) - Manjaro从入门到爱不释手．
@@ -2141,6 +2141,10 @@
 
 - [rootclay/WMIHACKER](https://github.com/rootclay/WMIHACKER) - A Bypass Anti-virus Software Lateral Movement Command Execution Tool
 - [z1un/Z1-AggressorScripts](https://github.com/z1un/Z1-AggressorScripts) - 适用于Cobalt Strike的插件
+
+## Visual Basic .NET
+
+- [DosX-dev/UPX-Patcher](https://github.com/DosX-dev/UPX-Patcher) - Make "upx -d" unpacking impossible!
 
 ## Vue
 
