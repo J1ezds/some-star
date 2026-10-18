@@ -1409,7 +1409,7 @@
 - [onewinner/POCS](https://github.com/onewinner/POCS) - 收集最新漏洞POC（Yaml\Python）
 - [oritera/Cairn](https://github.com/oritera/Cairn) - Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin.
 - [otiscuilei/xianyu-auto-reply-security-fix](https://github.com/otiscuilei/xianyu-auto-reply-security-fix) - 闲鱼自动回复管理系统 - 安全加固版 | 基于 xianyu-auto-reply-fix 二开，修复12个安全漏洞（Cookie泄露、SQL注入、路径穿越、硬编码密钥、exec后门等）
-- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - 现代化资产测绘与漏洞监控平台 (ARL-Next)。经典 ARL 架构重构，聚焦企业资产关联、异步解耦并发调度与原生 MCP 协议集成，容器化开箱部署。
+- [owl234/ARL-Next](https://github.com/owl234/ARL-Next) - Modern attack-surface reconnaissance & asset monitoring platform — rebuilt from classic ARL with async decoupled scheduling, enterprise asset correlation and native MCP support. Docker-ready.
 - [p1g3/JSINFO-SCAN](https://github.com/p1g3/JSINFO-SCAN) - 递归式寻找域名和api。
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [phith0n/mooder](https://github.com/phith0n/mooder) - Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。
@@ -1500,7 +1500,6 @@
 - [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
 - [zgsfsec/DeepSeekSelfTool](https://github.com/zgsfsec/DeepSeekSelfTool) - 首个由DeepSeek独立开发的AI网络安全工具箱
 - [zgsfsec/HuntBack](https://github.com/zgsfsec/HuntBack) - 针对护网行动中红队溯源工具
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [zhonghuaifang/My-Actions](https://github.com/zhonghuaifang/My-Actions) - （签到项目备份，自用，加入了cqhttp通知，修复b站签到报错，修复小米运动上传之后不能同步到微信运动）爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
 - [zhzyker/vulmap](https://github.com/zhzyker/vulmap) - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
@@ -1730,6 +1729,7 @@
 - [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management.
 - [zgsfsec/opencode-safe-judge](https://github.com/zgsfsec/opencode-safe-judge) - 
 - [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 
 ## Unknown
 
