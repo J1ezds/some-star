@@ -1663,7 +1663,6 @@
 
 ## TypeScript
 
-- [3516634930/Payloader](https://github.com/3516634930/Payloader) - 渗透测试Payload速查平台 | Pentest Payload Quick Reference | XSS/SQLi/SSRF/RCE | React+TypeScript
 - [7-e1even/memshell-party-cli](https://github.com/7-e1even/memshell-party-cli) - MemShellParty 命令行客户端 + MCP 服务器：生成 Java 内存马、盲探测、连马验证、执行命令、传输文件，专给 AI Agent和安全测试人员使用。
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
