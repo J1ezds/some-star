@@ -1243,7 +1243,7 @@
 - [T3nk0/Upload_Auto_Fuzz](https://github.com/T3nk0/Upload_Auto_Fuzz) - 一个用于测试文件上传功能安全性的 Burp Suite 插件。通过 Intruder 模块自动生成各类绕过 payload，覆盖常见的文件上传限制场景。共1000+条payload
 - [Taonn/EmailAll](https://github.com/Taonn/EmailAll) - EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具
 - [Tas9er/MySQLByPassForSafeDog](https://github.com/Tas9er/MySQLByPassForSafeDog) - MySQL注入绕安全狗Tamper / Code By:Tas9er
-- [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) - A new-generation counter-offensive honeypot that turns the tables on AI-powered pentest agents: plants decoy API keys into real services via a reverse proxy and uses reverse prompt injection to bring mainstream agents under counter-control.
+- [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) - 新一代反制型蜜罐平台：通过反向代理在真实业务系统中无损植入蜜饵与虚拟路由，利用功能性伪装与反向提示词注入反控 AI 渗透 Agent，实现攻击捕获、画像溯源与上线反制。
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC) - 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedURLClassLoader）。仅限授权安全研究与本地防御验证。
@@ -1497,7 +1497,6 @@
 - [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - A tool for automatic patch shellcode into binary file to bypass AV.  /  一个自动patch shellcode到二进制文件的工具
 - [ysrc/xunfeng](https://github.com/ysrc/xunfeng) - 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。
 - [yzddmr6/WebCrack](https://github.com/yzddmr6/WebCrack) - WebCrack是一款web后台弱口令/万能密码批量检测工具，在工具中导入后台地址即可进行自动化检测。
-- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 微信 PC 4.0 防撤回/多开补丁工具
 - [zgsfsec/DeepSeekSelfTool](https://github.com/zgsfsec/DeepSeekSelfTool) - 首个由DeepSeek独立开发的AI网络安全工具箱
 - [zgsfsec/HuntBack](https://github.com/zgsfsec/HuntBack) - 针对护网行动中红队溯源工具
 - [zhonghuaifang/My-Actions](https://github.com/zhonghuaifang/My-Actions) - （签到项目备份，自用，加入了cqhttp通知，修复b站签到报错，修复小米运动上传之后不能同步到微信运动）爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
@@ -1569,6 +1568,7 @@
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [yellatiamo/CupcakeC2](https://github.com/yellatiamo/CupcakeC2) - 这是一款现代、高性能的跨平台 C2 架构系统。采用 Rust 编写受控端，Go 编写服务端，以及 Vue 3 极致轻量化 UI。深度融合 MCP 协议，开启 AI 自动化攻防新篇章。
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+- [zetaloop/BetterWX](https://github.com/zetaloop/BetterWX) - 某补丁工具
 
 ## SCSS
 
