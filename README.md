@@ -1270,7 +1270,7 @@
 - [XiaoliChan/wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro) - New generation of wmiexec.py
 - [XiaoliChan/wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut) - Modify version of impacket wmiexec.py, get output(data,response) from registry, don't need SMB connection, also bypassing antivirus-software in lateral movement like WMIHACKER.
 - [XiaomingX/Java-Security-Research-Notes](https://github.com/XiaomingX/Java-Security-Research-Notes) - 本项目是一个综合性的 Java 安全漏洞研究资源库，涵盖了多个知名组件和框架的安全漏洞研究、POC 代码和利用技术。项目内容包括但不限于：  RCE (远程代码执行): 反序列化、表达式注入、模板注入等 SSRF (服务端请求伪造): XXE、URL 重定向等 信息泄露: 配置泄露、路径遍历等 认证绕过: 权限控制缺陷、会话管理问题等
-- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，强调自监督，自循环，自进化首创寻宝机制、三段式上升结构，此项目主要探索在可控环境（CTF）下的能力
+- [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash) - 由夜安团队研发的AI Agent渗透测试平台，引入分形覆叠的概念，强调自监督，自循环，自进化（分形）首创寻宝机制、三段式上升结构（覆叠），此项目主要探索在可控环境（CTF）下的能力
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [ZororoZ/fscanOutput](https://github.com/ZororoZ/fscanOutput) - 一个用于处理fsacn输出结果的小脚本（尤其面对大量资产的fscan扫描结果做输出优化，让你打点快人一步！！！）
 - [a1most/disu](https://github.com/a1most/disu) - 包含crt.sh、fullhunt、fofa、360quake、fofa、hunter、virustotal、zoomeye、rapiddns、certspotter、chaziyu、dnsscan、threatminer的一款收集子域名的集成工具。
@@ -1967,8 +1967,6 @@
 - [h00klod0er/java-memshell-generator-Godzilla-custom](https://github.com/h00klod0er/java-memshell-generator-Godzilla-custom) - 哥斯拉插件，自定义内存马注入器，java-memshell-generator-Godzilla-custom  ， 参考jmg-for-Godzilla项目，因为原插件没有自定义内存马注入的功能，所以顺手加了个，可输入base64字节码进行注入，感谢 1ucky7师傅
 - [h00klod0er/xia_Yue_pro](https://github.com/h00klod0er/xia_Yue_pro) - xia_Yue 插件修改版，瞎越修改版，修复中文重放乱码，添加请求行越权测试，一键导出越权url，允许重复url测试等功能
 - [h0ny/NacosExploit](https://github.com/h0ny/NacosExploit) - Nacos 综合漏洞利用工具
-- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - 
-- [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [hack007x/HW2024](https://github.com/hack007x/HW2024) - 技站法合集
 - [hack2fun/BypassAV](https://github.com/hack2fun/BypassAV) - Cobalt Strike插件，用于快速生成免杀的可执行文件
 - [haibo3434358/ScareAISec](https://github.com/haibo3434358/ScareAISec) - 一个针对业务系统功能的全自动化平台
