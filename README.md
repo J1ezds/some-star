@@ -1105,7 +1105,6 @@
 - [0x727/ChkApi_0x727](https://github.com/0x727/ChkApi_0x727) - 辅助甲方安全人员巡检网站资产，发现并分析API安全问题
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具
 - [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
-- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner) - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
 - [13exp/SpringBoot-Scan-GUI](https://github.com/13exp/SpringBoot-Scan-GUI) - 
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [1in9e/icp-domains](https://github.com/1in9e/icp-domains) - 输入一个域名，输出ICP备案所有关联域名
@@ -1314,6 +1313,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [cwkiller/xxe-smb-server](https://github.com/cwkiller/xxe-smb-server) - 在xxe中使用smb外带多行内容
 - [dagowda/DSViper](https://github.com/dagowda/DSViper) - This is for Ethical Use only. The default automated binaries created are all burned. I have added the script to the repo to modify certain signatures and it will still work.
+- [daybreak-kits/weblogicScanner](https://github.com/daybreak-kits/weblogicScanner) - weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883
 - [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) - Docker labs + defensive scanner for fastjson remote-class-load RCE. fastjson 1.2.66-1.2.83: @JSONType resource probe (CVE-2026-16723). fastjson2 2.0.57: attacker @type reaches loadClass with autoType DISABLED via polymorphic types (@JSONType(seeAlso) / Jackson @JsonSubTypes). Marker-only payloads; safeMode + JDK17 controls.
 - [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab) - MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock Docker image. Found with RAPTOR and raptor-loop-hunt.
 - [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
@@ -1533,7 +1533,7 @@
 - [0x727/FingerprintHub](https://github.com/0x727/FingerprintHub) - 侦查守卫(ObserverWard)的指纹库
 - [86maid/ddddocr](https://github.com/86maid/ddddocr) - ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API server, very easy to deploy。
 - [A10ha/ICPSearch](https://github.com/A10ha/ICPSearch) - ICP 备案批量查询工具
-- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
 - [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD) - BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).
 - [HG-ha/ICP_Query](https://github.com/HG-ha/ICP_Query) - 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API
 - [LovelyTeams/LovelyCarve](https://github.com/LovelyTeams/LovelyCarve) - a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析
