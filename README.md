@@ -537,6 +537,7 @@
 - [xct/xc](https://github.com/xct/xc) - A small reverse shell for Linux & Windows
 - [xiecat/goblin](https://github.com/xiecat/goblin) - 一款适用于红蓝对抗中的仿真钓鱼系统
 - [xluohome/phonedata](https://github.com/xluohome/phonedata) - 手机号码归属地信息库、手机号归属地查询   phone.dat 最后更新：2023年02月
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [yhy0/ChYing](https://github.com/yhy0/ChYing) - 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like application.
 - [yhy0/Jie](https://github.com/yhy0/Jie) - Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 - [yqcs/ZheTian](https://github.com/yqcs/ZheTian) - ::ZheTian / 强大的免杀生成工具，Bypass All.
