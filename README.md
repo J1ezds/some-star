@@ -597,7 +597,6 @@
 - [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
 - [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 - [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 - [giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init) - CTF PWN 做题环境一键搭建脚本
 - [hilyary/LensAnalysis](https://github.com/hilyary/LensAnalysis) - 析镜 LensAnalysis是一款基于 Volatility 3 框架的图形化内存取证工具，专为 CTF 竞赛和安全研究设计。
@@ -662,7 +661,6 @@
 - [Firebasky/Java](https://github.com/Firebasky/Java) - 关于学习java安全的一些知识,正在学习中ing,欢迎fork and star
 - [Gary-yang1/TongwebPlugin](https://github.com/Gary-yang1/TongwebPlugin) - 
 - [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
-- [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
 - [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
@@ -685,6 +683,7 @@
 - [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
 - [Mr-xn/RedTeam_BlueTeam_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
 - [Ni4n/ShellGenerate](https://github.com/Ni4n/ShellGenerate) - 哥斯拉jsp/jspx免杀webshell生成器
+- [Nk-Be/NPatch](https://github.com/Nk-Be/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC) - 
 - [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
 - [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) - 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks
@@ -987,11 +986,14 @@
 
 - [whickey-r7/grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config) - 
 
+## MDX
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 ## Markdown
 
 - [highlightink/sqlmap-wiki-zhcn](https://github.com/highlightink/sqlmap-wiki-zhcn) - 可能是最完整的 sqlmap 中文文档。
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [wanshuiyin/HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense) - HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.
 
 ## Mermaid
 
@@ -1479,6 +1481,7 @@
 - [v-yun/vuln-report-skill](https://github.com/v-yun/vuln-report-skill) - AI-agent skill: turn confirmed vulnerabilities into submission-ready DOCX reports | 漏洞报告成稿 skill（SRC/0day 提交稿、分层验证门、Step 式 PoC、截图铁律）
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [wafinfo/Sunflower_get_Password](https://github.com/wafinfo/Sunflower_get_Password) - 一款针对向日葵的识别码和验证码提取工具
+- [wanshuiyin/HERO-Anti-OverDefense](https://github.com/wanshuiyin/HERO-Anti-OverDefense) - HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.
 - [we1x4n/fuck_captcha](https://github.com/we1x4n/fuck_captcha) - 基于muggle-ocr的验证码识别脚本，目前仅支持4-6简单英数验证码
 - [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity) - Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 - [wgpsec/DBJ](https://github.com/wgpsec/DBJ) - 大宝剑-边界资产梳理工具（红队、蓝队、企业组织架构、子域名、Web资产梳理、Web指纹识别、ICON_Hash资产匹配）
@@ -1933,7 +1936,7 @@
 - [djytmdj/Network-security-study-notes](https://github.com/djytmdj/Network-security-study-notes) - 主要记录网络安全学习笔记，包含WEB安全、提权、APP渗透、内网渗透、横向移动、红队、工具学习等
 - [djytmdj/Tool_Summary](https://github.com/djytmdj/Tool_Summary) - 网络安全测试工具汇总，包含漏洞库、漏洞利用工具、漏洞扫描工具、密码读取工具、中间件利用工具、内网渗透工具。cs、burp、浏览器插件工具、字典等
 - [doimet/AuxTools](https://github.com/doimet/AuxTools) - 图形化渗透测试辅助工具
-- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年10月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
+- [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年11月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 - [doubleee/WebFuzzing](https://github.com/doubleee/WebFuzzing) - 自用字典，收集实战中遇到的奇特目录名、后门文件名等。不定期更新！
 - [dr0op/shiro-550-with-NoCC](https://github.com/dr0op/shiro-550-with-NoCC) - Shiro-550 不依赖CC链利用工具
 - [dracodong/vshell_oldversion](https://github.com/dracodong/vshell_oldversion) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
