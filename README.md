@@ -1028,7 +1028,7 @@
 
 - [0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub) - 该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习
 - [78778443/QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
-- [Apursuit/rce-labs](https://github.com/Apursuit/rce-labs) - 基于alpine+php7.3的一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过
+- [Apursuit/rce-labs](https://github.com/Apursuit/rce-labs) - 一个面向网络安全初学者的RCE远程命令执行靶场，包括基础命令、shell 特性、常见姿势、常见waf绕过等常见技巧
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [Junehck/FastSqli](https://github.com/Junehck/FastSqli) - 单页mysql注入环境自带数据仅需填账号密码无需其他复杂配置开箱即用。 自定义过滤/拦截规则进行bypass等测试，支持报错/联合/延时/布尔/时间/堆叠 的数值或字符注入
 - [Macr0phag3/webshell-bypassed-human](https://github.com/Macr0phag3/webshell-bypassed-human) - 过人 webshell 的生成工具
@@ -1148,7 +1148,7 @@
 - [D0g3-Lab/H1ve](https://github.com/D0g3-Lab/H1ve) - An Easy / Quick / Cheap Integrated Platform
 - [DawnFlame/POChouse](https://github.com/DawnFlame/POChouse) - POC&EXP仓库、hvv弹药库、Nday、1day
 - [DeepFK-ai/XingHuoBypassAv1.0](https://github.com/DeepFK-ai/XingHuoBypassAv1.0) - Python分离免杀+混淆Bypass 360&火绒
-- [DiscoverBox/awesome-ai-reverse](https://github.com/DiscoverBox/awesome-ai-reverse) - AI 辅助逆向工程工具清单，收录 MCP、Skill、插件、Agent 与工作站，覆盖 Web、二进制、移动端、浏览器自动化和流量分析。
+- [DiscoverBox/awesome-ai-reverse-engineering](https://github.com/DiscoverBox/awesome-ai-reverse-engineering) - AI 辅助逆向工程工具清单，收录 MCP、Skill、插件、Agent 与工作站，覆盖 Web、二进制、移动端、浏览器自动化和流量分析。
 - [Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) - Redis 4.x/5.x RCE
 - [EASY233/Finger](https://github.com/EASY233/Finger) - 一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具
 - [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
@@ -1284,7 +1284,7 @@
 - [ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits) - Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()
 - [antgroup/MCPScan](https://github.com/antgroup/MCPScan) - 
 - [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
-- [asaotomo/FofaMap](https://github.com/asaotomo/FofaMap) - 一款证据驱动的 FOFA 资产测绘智能体：支持自然语言侦察、AI 反思、CLI / MCP / Skill / REST API，以及经人工审批的 Nuclei 扫描。
+- [asaotomo/FofaMap](https://github.com/asaotomo/FofaMap) - 证据驱动的 AI 资产测绘与安全研判工具。以自然语言串联资产发现、AI 反思、授权验证与报告交付，将 FOFA、Nuclei 与 AI 助手融入同一工作流。原生支持 CLI / MCP / Skill / REST API。
 - [asaotomo/ZipCracker](https://github.com/asaotomo/ZipCracker) - ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击、短明文 CRC32 枚举恢复、已知明文攻击、套娃ZIP解压等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）
 - [asz798838958/aBaiFreeGPT](https://github.com/asz798838958/aBaiFreeGPT) - 多线程全自动注册free
 - [awake1t/HackReport](https://github.com/awake1t/HackReport) - 渗透测试报告/资料文档/渗透经验文档/安全书籍
@@ -1547,6 +1547,7 @@
 - [LovelyTeams/LovelyCarve](https://github.com/LovelyTeams/LovelyCarve) - a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览、全局搜索、时间线、文件雕刻与插件分析
 - [Pizz33/JoJoLoader](https://github.com/Pizz33/JoJoLoader) - 助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan
 - [Sndav/WeChatDB-Rust](https://github.com/Sndav/WeChatDB-Rust) - 用Rust语言编写，使用特征值从微信内存中提取数据库密钥的工具
+- [YDHCUI/buut](https://github.com/YDHCUI/buut) - 一款使用rust开发的高性能正反向隧道代理工具，基于多路复用技术。
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [afaa1991/BetterWX-UI](https://github.com/afaa1991/BetterWX-UI) - 微信|企业微信|抖Y多聊|钉钉 多开、防撤回提示、多账号免扫码登录的终极解决方案
 - [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and structured JSON output for AI agents like Claude Code
@@ -1725,7 +1726,7 @@
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
 - [pajasevi/UnCSS-Online](https://github.com/pajasevi/UnCSS-Online) - Simply UnCSS your styles online!
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
@@ -2099,7 +2100,6 @@
 - [welk1n/FastjsonPocs](https://github.com/welk1n/FastjsonPocs) - 一些结合第三方组件的Fastjson POC，在1.2.48以后版本中陆续被添加至黑名单。
 - [wgpsec/wiki](https://github.com/wgpsec/wiki) - WgpSec Wiki 仓库 持续更新
 - [whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit) - GeoServer（CVE-2024-36401/CVE-2024-36404）漏洞利用工具
-- [winston779/peiqianjichang](https://github.com/winston779/peiqianjichang) - 赔钱机场官网地址
 - [woodpecker-framework/woodpecker-framework-release](https://github.com/woodpecker-framework/woodpecker-framework-release) - 高危漏洞精准检测与深度利用框架
 - [wooluo/nuclei-templates-2025hw](https://github.com/wooluo/nuclei-templates-2025hw) - 自动生成nuclei 2025HW poc
 - [wyzxxz/aksk_tool](https://github.com/wyzxxz/aksk_tool) - AK资源管理工具，阿里云/腾讯云/华为云/AWS/UCLOUD/京东云/百度云/七牛云存储/火山引擎  AccessKey AccessKeySecret，利用AK获取资源信息和操作资源，ECS/CVM/E2/UHOST/ECI/BCC执行命令，OSS/COS/S3/BOS管理，RDS/DB管理，域名管理，添加RAM/CAM/IAM账号等
