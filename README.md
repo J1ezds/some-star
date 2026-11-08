@@ -272,6 +272,7 @@
 - [Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 - [ZYYO666/homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
 - [admin360bug/PHP](https://github.com/admin360bug/PHP) - PHP训练靶场
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [billie66/TLCL](https://github.com/billie66/TLCL) - 《快乐的 Linux 命令行》
 - [esappear/hexo-theme-clover](https://github.com/esappear/hexo-theme-clover) - Clover theme for Hexo.
 - [jiaocoll/BeeScan-web](https://github.com/jiaocoll/BeeScan-web) - 网络空间资产探测、网络测绘、Go语言、分布式、扫描、资产探测、资产测绘、红队、SRC | Cyberspace Asset Detection, Network Mapping, Go Language, Distributed, Scanning, Asset Detection, Asset Mapping, Red Team, SRC
@@ -591,7 +592,6 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [admin360bug/bypass](https://github.com/admin360bug/bypass) - Bypass
 - [aeverj/weblive](https://github.com/aeverj/weblive) - 批量获取网站基本信息
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [cckuailong/vulbase](https://github.com/cckuailong/vulbase) - 各大漏洞文库合集
 - [crow821/vulntarget](https://github.com/crow821/vulntarget) - vulntarget靶场系列
 - [dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。
@@ -896,7 +896,6 @@
 - [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容
 - [aliyun/oss-browser](https://github.com/aliyun/oss-browser) - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
-- [arounyf/headscale-Admin](https://github.com/arounyf/headscale-Admin) - 支持多用户管理的一款headscale后台控制中心
 - [b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner) - 自动化巡航扫描框架（可用于红队打点评估）
 - [beishanxueyuan/domain_scan](https://github.com/beishanxueyuan/domain_scan) - 
 - [bigsinger/awesomeFrida](https://github.com/bigsinger/awesomeFrida) - frida代码汇总
