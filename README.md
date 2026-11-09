@@ -32,7 +32,6 @@
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
 - [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
-- [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [Echocipher/AUTO-EARN](https://github.com/Echocipher/AUTO-EARN) - 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具
 - [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
@@ -659,6 +658,7 @@
 - [Firebasky/Java](https://github.com/Firebasky/Java) - 关于学习java安全的一些知识,正在学习中ing,欢迎fork and star
 - [Gary-yang1/TongwebPlugin](https://github.com/Gary-yang1/TongwebPlugin) - 
 - [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
+- [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
 - [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
@@ -681,7 +681,6 @@
 - [MountCloud/BehinderClientSource](https://github.com/MountCloud/BehinderClientSource) - ❄️冰蝎客户端源码-V4.0.6🔞
 - [Mr-xn/RedTeam_BlueTeam_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
 - [Ni4n/ShellGenerate](https://github.com/Ni4n/ShellGenerate) - 哥斯拉jsp/jspx免杀webshell生成器
-- [Nk-Be/NPatch](https://github.com/Nk-Be/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC) - 
 - [Phelaine/SinkFinder](https://github.com/Phelaine/SinkFinder) - 闭源系统半自动漏洞挖掘工具，针对 jar/war/zip 进行静态代码分析，输出从source到sink的可达路径。LLM将验证路径可达性，并根据上下文给出该路径可信分数
 - [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) - 🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - WAF bypass tricks
