@@ -32,12 +32,13 @@
 - [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) - :palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
 - [CDipper/Beacon](https://github.com/CDipper/Beacon) - 使用C简单重构Beacon，适配CobaltStrike客户端
 - [Coldzer0/ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
+- [Cracked5pider/Stardust](https://github.com/Cracked5pider/Stardust) - A modern 32/64-bit position independent implant template
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [Echocipher/AUTO-EARN](https://github.com/Echocipher/AUTO-EARN) - 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具
 - [EstamelGG/CVE-2021-4034-NoGCC](https://github.com/EstamelGG/CVE-2021-4034-NoGCC) - CVE-2021-4034简单优化，以应对没有安装gcc和make的目标环境
 - [FreeRDP/Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [LDrakura/Remote_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
 - [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit) - An LKM-based Linux kernel security research prototype for studying rootkit behavior and defensive detection techniques.
 - [Logkiss/Rat-winos4.0-gh0st](https://github.com/Logkiss/Rat-winos4.0-gh0st) - 免杀远控木马源码整理开源(银狐 winos 大灰狼  gh0st)  Rat
@@ -342,6 +343,7 @@
 - [Ed1s0nZ/externalC2Client](https://github.com/Ed1s0nZ/externalC2Client) - Cobalt Strike - External C2 Client
 - [EddieIvan01/iox](https://github.com/EddieIvan01/iox) - Tool for port forwarding & intranet proxy
 - [EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole) - EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
+- [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex) - 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理
 - [FalconOpsLLC/goexec](https://github.com/FalconOpsLLC/goexec) - Windows remote execution multitool
 - [Fu5r0dah/TongdaScan_go](https://github.com/Fu5r0dah/TongdaScan_go) - 通达OA漏洞检测工具-TongdaScan_go
 - [GhostTroops/ksubdomain](https://github.com/GhostTroops/ksubdomain) - 子域名爆破，增加了智能爬虫功能
@@ -546,7 +548,6 @@
 - [yqcs/prismx](https://github.com/yqcs/prismx) - :: Prism X · Automated Enterprise Network Security Risk Detection and Vulnerability Scanning Tool  / 棱镜 X · 自动化企业网络安全风险检测、漏洞扫描工具
 - [yumusb/DNSLog-Platform-Golang](https://github.com/yumusb/DNSLog-Platform-Golang) - DNSLOG平台 golang
 - [yutianqaq/AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) - An online AV evasion platform written in Springboot (Golang, Nim, C) supports embedded, local and remote loading of Shellocde methods.
-- [yuyan-sec/RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 - [z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT) - 针对JWT渗透开发的漏洞验证/密钥爆破工具，针对CVE-2015-9235/空白密钥/未验证签名攻击/CVE-2016-10555/CVE-2018-0114/CVE-2020-28042的结果生成用于FUZZ，也可使用字典/字符枚举(包括JJWT)的方式进行爆破(JWT Crack)
 - [zan8in/afrog](https://github.com/zan8in/afrog) - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 - [zema1/suo5](https://github.com/zema1/suo5) - 高性能 HTTP 正向代理工具 | A high-performance http tunneling tool
@@ -857,7 +858,6 @@
 - [yhy0/passive-scan-client](https://github.com/yhy0/passive-scan-client) - Burp被动扫描流量转发插件
 - [youki992/ShiningZ](https://github.com/youki992/ShiningZ) - "闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
 - [yuqing2026/ruoyi-office](https://github.com/yuqing2026/ruoyi-office) - 🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben 的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │🛍️ ERP进销存 │📑 合同管理 │📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │⚙️ MES制造执行 │💰 财务管理 │📡 IoT物联网 │🛠️ 工单管理 │🛒 MALL商城 │🤖 AI智能助手 │📈 数据报表 │等十余个子系统。
-- [yuyan-sec/DBeaver-decrypter](https://github.com/yuyan-sec/DBeaver-decrypter) - 解密DBeaver数据库软件保存的密码
 - [z-bool/SQLDownload](https://github.com/z-bool/SQLDownload) - 内网大型数据拖库解决方案，隧道不稳定时将内网数据库保存为csv格式文件
 - [z2p/sweetPotato](https://github.com/z2p/sweetPotato) - 基于burpsuite的资产分析工具
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
@@ -885,6 +885,7 @@
 - [LinBeiPolaris/PolarisScan](https://github.com/LinBeiPolaris/PolarisScan) - 一款Google信息收集插件，包含域名，map，js等文件提取
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 - [Mustard404/Savior](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、上传
 - [Rabb1tQ/wiki](https://github.com/Rabb1tQ/wiki) - 由于收集了一堆文档，文档数量及附件过多，现有的免费的系统不满足我的需求，所以自己弄个~
 - [SiJiDo/H](https://github.com/SiJiDo/H) - H是一款强大的资产收集管理平台
@@ -1687,7 +1688,6 @@
 - [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [QiantangCredit/heimdall-agent](https://github.com/QiantangCredit/heimdall-agent) - An autonomous AI agent framework for authorized CTF and security labs
 - [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - A proxy pool control panel built with Gin and React. Its core goal is to organize Clash/Mihomo nodes into reusable proxy pools for web scraping, data collection, proxy requests, and automated outbound network scenarios.
 - [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.Developed by the Intelligent Offense & Defense Research Group, led by Professor LuHui and Tian Zhihong at Fang Class,Guangzhou University.
@@ -2127,7 +2127,6 @@
 - [youki992/YonYouNCPocTool](https://github.com/youki992/YonYouNCPocTool) - 用友NC漏洞批量检测工具，支持POC显示、单一检测、批量检测、结果导出、AI交互等
 - [yuanyuanxiang/TechBlog](https://github.com/yuanyuanxiang/TechBlog) - My Tech Blog: Sharing my programming experience, the knowledge I've learned, and my insights into technology!
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
-- [yuyan-sec/Doraemon](https://github.com/yuyan-sec/Doraemon) - 渗透辅助 BurpSuite 小插件
 - [yyy4nl/PwdCrack](https://github.com/yyy4nl/PwdCrack) - 用于若依和Jeecg数据库中密码的爆破
 - [yzddmr6/webshell-venom](https://github.com/yzddmr6/webshell-venom) - 免杀webshell无限生成工具
 - [zangcc/Aakian-FaCai](https://github.com/zangcc/Aakian-FaCai) - 基于前端vue框架的JavaFx图形化GUI漏洞扫描工具，支持一键扫描vue-manage-system系统前端泄露的未授权目录接口漏洞，并且对扫描的暴露目录进行逐一测试和验证，方便渗透人员快速确定未授权接口。还添加了出口IP地址信息本地DNS信息等的查询，方便清楚自身出口IP。
