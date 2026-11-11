@@ -1163,7 +1163,6 @@
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [Gentle-bae/UploadRanger](https://github.com/Gentle-bae/UploadRanger) - Professional file upload vulnerability testing tool with 263+ bypass techniques, proxy capture, dynamic scanning（专业的文件上传漏洞检测工具，支持263+绕过技术、代理抓包、动态扫描）
 - [GoSecure/php7-opcache-override](https://github.com/GoSecure/php7-opcache-override) - Security-related PHP7 OPcache abuse tools and demo
-- [GrassWorkshop/wxapkg_infosearch](https://github.com/GrassWorkshop/wxapkg_infosearch) - 一款微信小程序源码包信息收集工具，根据已有项目改编
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [H-Limbus/NoMoney](https://github.com/H-Limbus/NoMoney) - NoMoney 是一款集成了fofa，奇安信的鹰图平台，360quake，且完全免费的信息收集工具。fofa 借助爬虫实现，其余平台利用各自的api进行信息收集。
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
