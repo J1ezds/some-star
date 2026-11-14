@@ -1687,7 +1687,7 @@
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration
 - [QiantangCredit/heimdall-agent](https://github.com/QiantangCredit/heimdall-agent) - An autonomous AI agent framework for authorized CTF and security labs
 - [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - A proxy pool control panel built with Gin and React. Its core goal is to organize Clash/Mihomo nodes into reusable proxy pools for web scraping, data collection, proxy requests, and automated outbound network scenarios.
-- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.Developed by the Intelligent Offense & Defense Research Group, led by Professor LuHui and Tian Zhihong at Fang Class,Guangzhou University.
+- [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent) - LuaN1aoAgent is a fully autonomous AI-driven penetration testing agent powered by graph-based cognitive reasoning.
 - [SelinuxJXM/JSecProbe](https://github.com/SelinuxJXM/JSecProbe) - 一键生成等保测评现场记录的桌面工具
 - [SimonAKing/scrcpy-gui](https://github.com/SimonAKing/scrcpy-gui) - 👻 A simple & beautiful GUI application for scrcpy.
 - [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil) - cc完整版，含手册，编译等
