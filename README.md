@@ -378,6 +378,7 @@
 - [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) - 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
 - [SkewwG/henggeFish](https://github.com/SkewwG/henggeFish) - 自动化批量发送钓鱼邮件（横戈安全团队出品）
 - [SleepingBag945/dddd](https://github.com/SleepingBag945/dddd) - dddd是一款使用简单的批量信息收集,供应链漏洞探测工具，旨在优化红队工作流，减少伤肝的机械性操作。支持从Hunter、Fofa批量拉取目标
+- [Spade-sec/jsowl](https://github.com/Spade-sec/jsowl) - JsOwl —— Go 编写的 Web 安全信息收集利器。集 JavaScript 信息收集、API 端点提取、敏感信息扫描、攻击面梳理 于一体，同时提供 CLI 工具与 Go 库。内置 direct / browser / auto 三种采集模式，兼容 HaE 规则，支持登录态扫描、运行时交互、AI 辅助分析与 MCP Server，输出 JSON 与交互式 HTML 报告，是渗透测试、红队信息收集与 Web 安全测试的高效自动化方案。
 - [SummerSec/SpringExploit](https://github.com/SummerSec/SpringExploit) - 🚀 一款为了学习go而诞生的漏洞利用工具
 - [TD0U/WeaverScan](https://github.com/TD0U/WeaverScan) - 泛微oa漏洞利用工具
 - [Ta0ing/MCP-SecurityTools](https://github.com/Ta0ing/MCP-SecurityTools) - MCP-SecurityTools 是一个专注于收录和更新网络安全领域 MCP 的开源项目，旨在汇总、整理和优化各类与 MCP 相关的安全工具、技术及实战经验。
@@ -415,6 +416,7 @@
 - [chainreactors/spray](https://github.com/chainreactors/spray) - 最好用最智能最可控的目录Fuzz工具 | The most powerful, user-friendly, intelligent, and precise HTTP Fuzzer.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
+- [chu0119/Pojun](https://github.com/chu0119/Pojun) - AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [corunb/Split_tools](https://github.com/corunb/Split_tools) - 分割小工具，可分割木马，一键生成写入、合并、追加命令
 - [darkfiv/AIFuzzing](https://github.com/darkfiv/AIFuzzing) - 
@@ -425,7 +427,6 @@
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [eeeeeeeeee-code/e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config) - 综合后渗透方面的杂烩
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [f0ng/selistener](https://github.com/f0ng/selistener) - 用于解决判断出网情况的问题，以http、ldap、rmi以及socket形式批量监听端口，在web界面进行结果查看
 - [fasnow/idebug](https://github.com/fasnow/idebug) - 企业微信、企业飞书接口调用工具。
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -464,7 +465,6 @@
 - [leveryd/go-sec-code](https://github.com/leveryd/go-sec-code) - Go相关的安全研究
 - [link1st/go-stress-testing](https://github.com/link1st/go-stress-testing) - go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】
 - [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy) - mitmproxy implemented with golang. 用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
-- [lucyz1125/BProxy_Advanced](https://github.com/lucyz1125/BProxy_Advanced) - 面向渗透测试的多跳SOCKS5代理工具
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [lzzbb/Adinfo](https://github.com/lzzbb/Adinfo) - 域信息收集工具
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1222,6 +1222,7 @@
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 - [Pizz33/360QVM_bypass](https://github.com/Pizz33/360QVM_bypass) - 通过生成不同hash的ico并写入程序中，实现批量bypass360QVM
 - [Potato-py/getIpInfo](https://github.com/Potato-py/getIpInfo) - 将文本中含有的IP进行标记、添加IP物理位置标记，并进行输出。提取存在的外网IP，依赖奇安信威胁分析武器库进行批量自动化情报查询，展示IP信誉详情、实现检测详情、恶意详情以及数据统计，并输出xlsx表格。
+- [ProbiusOfficial/pivothub](https://github.com/ProbiusOfficial/pivothub) - CTF多层内网渗透辅助工具
 - [QAX-A-Team/LuWu](https://github.com/QAX-A-Team/LuWu) - 红队基础设施自动化部署工具
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [ReAbout/web-sec](https://github.com/ReAbout/web-sec) - WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】
@@ -1732,7 +1733,7 @@
 - [yaklang/memfit-home](https://github.com/yaklang/memfit-home) - homepage for memfit AI
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
 - [yyhuni/xingrin](https://github.com/yyhuni/xingrin) - Open-source attack surface management and authorized security automation platform for asset discovery, service probing, scan orchestration, and security result management.
-- [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) - 全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。
+- [zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System) - 全链哨兵，是集Web 渗透、安卓 App 安全测试、iOS APP安全测试、攻防批量打点、自动化应急响应、开源漏洞监测、网络安全检查为一体的网络安全 Agent，用于安全服务交付自动化辅助，禁止用于非法用途。
 - [zgsm-ai/costrict](https://github.com/zgsm-ai/costrict) - Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 
