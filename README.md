@@ -1553,7 +1553,6 @@
 - [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [donutbrowser/donutbrowser](https://github.com/donutbrowser/donutbrowser) - The Most Private Anti-Detect Browser 🍩
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 - [ege0x77czz/rust-native-obf](https://github.com/ege0x77czz/rust-native-obf) - 
@@ -1704,6 +1703,7 @@
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) - 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
@@ -1763,7 +1763,6 @@
 - [AduraK2/Shiro_Weblogic_Tool](https://github.com/AduraK2/Shiro_Weblogic_Tool) - 针对部署在Weblogic上的Shiro
 - [Airboi/bypass-av-note](https://github.com/Airboi/bypass-av-note) - 免杀技术大杂烩---乱拳也打不死老师傅
 - [Aizaren/Telegram](https://github.com/Aizaren/Telegram) - Telegram 电报严选资源导航 机场 VPN
-- [AnQuanPig/XiaSQL_Plus](https://github.com/AnQuanPig/XiaSQL_Plus) - 迄今为止公开的二开瞎注插件中最强版本：Xia SQL Plus，基于 “瞎注” xia_sql二次开发。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [AnyeDuke/Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill) - 用于记录企业安全规划，建设，运营，攻防的相关资源
 - [Arenbai/SecSkills](https://github.com/Arenbai/SecSkills) - 面向 Claude Code 的专业渗透测试技能模块。严格遵循 PTES 标准，覆盖信息收集、漏洞利用、后渗透与免杀规避全阶段。后续不在更新skill，如需使用建议二开。
