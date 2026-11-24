@@ -660,7 +660,6 @@
 - [HHa1ey/TKHunter](https://github.com/HHa1ey/TKHunter) - 一个基于JavaFX写的一个Hunter资产测绘平台的图形化工具
 - [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 - [Hutt0n0/ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) - 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入
-- [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
 - [K-7H7l/Jeecg_Tools](https://github.com/K-7H7l/Jeecg_Tools) - 本工具为jeecg框架漏洞利用工具非jeecg-boot！
@@ -903,7 +902,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
+- [electerm/electerm](https://github.com/electerm/electerm) - Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat Mini-Program Framework (WMPF) debugger
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -972,6 +971,7 @@
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
 - [SpringKill-team/CodeAuditAssistant](https://github.com/SpringKill-team/CodeAuditAssistant) - 🔍 CodeAuditAssistant - JetBrains Code Audit Plugin (Beta)   ⚡ Deep Call-Chain Tracking | 🚀 Method/Class Search | 🔥 Prebuilt Vuln Sinks   Native Integration | Decompiler/Path Finder | Memory Optimized 🔍 CodeAuditAssistant - IDEA代码审计插件  ⚡ 精准追踪复杂调用链 | 🚀 毫秒级方法搜索 | 🔥 内置高危漏洞检测 原生集成 | 反编译/路径分析 | 内存优化 | 安全审计利器
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
@@ -1552,7 +1552,6 @@
 - [b1nhack/rust-shellcode](https://github.com/b1nhack/rust-shellcode) - windows-rs shellcode loaders
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [donutbrowser/donutbrowser](https://github.com/donutbrowser/donutbrowser) - The Most Private Anti-Detect Browser 🍩
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)
 - [ege0x77czz/rust-native-obf](https://github.com/ege0x77czz/rust-native-obf) - 
@@ -1654,7 +1653,6 @@
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
-- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1703,6 +1701,7 @@
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) - 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
@@ -1811,6 +1810,7 @@
 - [HackJava/Log4j2](https://github.com/HackJava/Log4j2) - 《HackLog4j-永恒之恶龙》致敬全宇宙最无敌的Java日志库！Tribute to the most invincible Java logging library in the universe!
 - [Harmoc/CTFTools](https://github.com/Harmoc/CTFTools) - Personal CTF Toolkit
 - [Henglie/EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM) - EternalBlaze 调试级去虚拟化虚拟机（2026）基于 VMware 16.1.2 与 Windows 10 1909 专业版，专为逆向工程、病毒分析、CTF 竞赛等高安全需求场景设计。通过整合最新去虚拟化技术，有效绕过主流强壳软件的虚拟机检测。提供基础原型机（EB0）与预装全套逆向工具的成品机（EB1）两个版本，支持快照回溯、文件便捷传输、远程内核调试及秘钥软件持久化等功能。适用于流氓软件取证、DRM研究、驱动开发等，但不支持 DX12 游戏及部分新型 DRM 视频播放。强调仅限合法学习研究，严禁用于盗录或作弊。
+- [IIIIIllllIIIIIlllll/llama.cpp-hub](https://github.com/IIIIIllllIIIIIlllll/llama.cpp-hub) - An extension utility for llama.cpp, used with 3090*2 + Strix Halo. llama.cpp的拓展小工具，自用于3090*2 + Strix Halo。
 - [Ivan1ee/NET-Deserialize](https://github.com/Ivan1ee/NET-Deserialize) - 总结了20+.Net反序列化文章，持续更新
 - [JDArmy/DCSec](https://github.com/JDArmy/DCSec) - 域控安全one for all
 - [Junehck/SQL-injection-bypass](https://github.com/Junehck/SQL-injection-bypass) - 记录实战中的各种sql注入绕过姿势
