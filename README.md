@@ -948,7 +948,7 @@
 - [yzddmr6/As-Exploits](https://github.com/yzddmr6/As-Exploits) - 中国蚁剑后渗透框架
 - [yzddmr6/as_webshell_venom](https://github.com/yzddmr6/as_webshell_venom) - 免杀webshell无限生成工具蚁剑版
 - [z1sec/jwtauditor](https://github.com/z1sec/jwtauditor) - jwtauditor 汉化修改版
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、AI知识库系统。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统，支持知识库管理、文档发布和AI问答。
 
 ## Jinja
 
@@ -2002,7 +2002,7 @@
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 
 - [leveryd/x-waf](https://github.com/leveryd/x-waf) - 让"WAF绕过"变得简单
 - [lich0821/WeChatDB](https://github.com/lich0821/WeChatDB) - 解密微信数据库，聊天记录备份。Crack WeChat DB.
-- [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。客观描述，保持友善，Ad 🔗 🈲🙅❌
+- [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。💡[72小时内]遇到问题建议先查看机场公告，尝试联系机场客服或提交工单；客观描述，保持友善；Ad 🔗 🈲🙅❌
 - [lintstar/About-Attack](https://github.com/lintstar/About-Attack) - 一个旨在通过应用场景 / 标签对 Github 红队向工具 / 资源进行分类收集，降低红队技术门槛的手册【持续更新】
 - [lucky-ecat/wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
 - [luelueking/RuoYi-v4.7.8-RCE-POC](https://github.com/luelueking/RuoYi-v4.7.8-RCE-POC) - 
