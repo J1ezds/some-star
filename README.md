@@ -317,7 +317,6 @@
 - [25smoking/Gwxapkg](https://github.com/25smoking/Gwxapkg) - 一款基于GO实现的微信小程序 wxapkg解包工具，支持自动扫描、解密、反编译，小程序安全测试。
 - [9bie/oss-stinger](https://github.com/9bie/oss-stinger) - 利用oss实现http转发/cobalt strike上线
 - [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) - A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret_key / decrypt data_source info automatic.
-- [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [ASkyeye/CVE-2023-21839](https://github.com/ASkyeye/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
@@ -1970,6 +1969,8 @@
 - [h00klod0er/java-memshell-generator-Godzilla-custom](https://github.com/h00klod0er/java-memshell-generator-Godzilla-custom) - 哥斯拉插件，自定义内存马注入器，java-memshell-generator-Godzilla-custom  ， 参考jmg-for-Godzilla项目，因为原插件没有自定义内存马注入的功能，所以顺手加了个，可输入base64字节码进行注入，感谢 1ucky7师傅
 - [h00klod0er/xia_Yue_pro](https://github.com/h00klod0er/xia_Yue_pro) - xia_Yue 插件修改版，瞎越修改版，修复中文重放乱码，添加请求行越权测试，一键导出越权url，允许重复url测试等功能
 - [h0ny/NacosExploit](https://github.com/h0ny/NacosExploit) - Nacos 综合漏洞利用工具
+- [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - 
+- [h3110w0r1d-y/termius-cracked](https://github.com/h3110w0r1d-y/termius-cracked) - Termius Pro
 - [hack007x/HW2024](https://github.com/hack007x/HW2024) - 技站法合集
 - [hack2fun/BypassAV](https://github.com/hack2fun/BypassAV) - Cobalt Strike插件，用于快速生成免杀的可执行文件
 - [haibo3434358/ScareAISec](https://github.com/haibo3434358/ScareAISec) - 一个针对业务系统功能的全自动化平台
